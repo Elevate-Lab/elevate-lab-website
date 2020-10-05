@@ -1,0 +1,69 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Tlazypanda",
+      "name": "Sneha Mishra",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33183263?v=4",
+      "profile": "https://github.com/Tlazypanda",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "siddhantdrk",
+      "name": "Siddhantdrk",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58393179?v=4",
+      "profile": "https://www.linkedin.com/in/siddhant-khobragade-582a76174/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Cybertron-Avneesh",
+      "name": "Avneesh Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54072374?v=4",
+      "profile": "https://cybertron-avneesh.github.io/My-Website/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "deepakDOTexe",
+      "name": "Deepak Katre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46655706?v=4",
+      "profile": "https://github.com/deepakDOTexe",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Shreesh90",
+      "name": "Shreesh90",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6941016?v=4",
+      "profile": "https://github.com/Shreesh90",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "IC1101Virgo",
+      "name": "Anjali Chaturvedi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/59052808?v=4",
+      "profile": "https://github.com/IC1101Virgo",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Import-Template",
+  "projectOwner": "Elevate-Lab",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
