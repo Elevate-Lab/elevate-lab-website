@@ -1,8 +1,11 @@
-# Import-Template
+# Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-A template repo for making our lives easier 🐬
+
+This repository is to make Website to help expand the idea!
+The website will contain information regarding all the wonderful people as well as events associated with the same!🌟
+Let's learn and make this. 🌞
 
 ## Welcome to Elevate labs 🚀
 
