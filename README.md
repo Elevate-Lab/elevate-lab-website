@@ -13,6 +13,10 @@ Let's learn and make this. 🌞
  We also believe in the strength of team! If you too want to be a part of change, we are happy to have you on-board 🥳
 
  Anyone and everyone is welcomed!:sunglasses:
+ 
+## Workplan and Tech Stack
+
+![Sitemap_Tech_Stack](assets/images/elevate-lab-website.png)
 
 ## Contributors ✨
 
