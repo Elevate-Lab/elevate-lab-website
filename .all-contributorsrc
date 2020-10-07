@@ -58,10 +58,19 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cyber-venom003",
+      "name": "cyber-venom003",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58390399?v=4",
+      "profile": "https://github.com/cyber-venom003",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "Import-Template",
+  "projectName": "elevate-lab-website",
   "projectOwner": "Elevate-Lab",
   "repoType": "github",
   "repoHost": "https://github.com",
