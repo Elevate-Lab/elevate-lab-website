@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is to make Website to help expand the idea!
@@ -37,6 +37,8 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
   </tr>
   <tr>
     <td align="center"><a href="https://www.hiration.com/dieu/personal-website/garvitchittora/"><img src="https://avatars0.githubusercontent.com/u/54021348?v=4" width="100px;" alt=""/><br /><sub><b>garvitchittora</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=garvitchittora" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/stygian-96"><img src="https://avatars2.githubusercontent.com/u/54054289?v=4" width="100px;" alt=""/><br /><sub><b>stygian-96</b></sub></a><br /><a href="#design-stygian-96" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Jyotika999"><img src="https://avatars0.githubusercontent.com/u/54600270?v=4" width="100px;" alt=""/><br /><sub><b>Incredible</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Jyotika999" title="Documentation">📖</a></td>
   </tr>
 </table>
 

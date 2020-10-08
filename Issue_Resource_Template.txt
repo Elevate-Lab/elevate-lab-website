@@ -36,3 +36,31 @@ Contributors can share websites, youtube videos, courses which helped them build
 
         <!-- make sure there is one line of space above and below your card -->
         <!-- ========== Paste YOUR SUGGEST directly at the end of this document ========== -->
+        
+        
+        
+         <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Jyotika
+
+         Your Interests and Hobbies: Exploring Tech Related Stuffs,  Learnings to Implementation!!
+              
+         Useful Resources:heart_eyes::heart_eyes::
+                   
+                       * An Awesome Resource to learn Git: https://git-scm.com/book/en/v2/
+
+                       
+                       * Building First Android App: https://developer.android.com/training/basics/firstapp
+
+
+                       *  Python for beginners: https://developers.google.com/edu/python/
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
+
+
+        
+        
+        
+        
