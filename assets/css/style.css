@@ -98,10 +98,10 @@ a.item-nav:hover{
 .card{
     margin-left: 240px; /* Remove this */
 
-    box-shadow: -5px 1px 12px rgba(0,0,0,0.4);
+    box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
     width: 280px;
     height: 240px;
-    background-color: #0A192F;
+    background-color: #081529;
     display: flex;
     flex-direction: column;
     border-radius: 16px;
@@ -112,7 +112,7 @@ a.item-nav:hover{
 }
 
 .card *{
-    background-color: #0A192F;
+    background-color: #081529;
 }
 
 .info{
@@ -126,7 +126,7 @@ a.item-nav:hover{
     max-width: 110px;
     height: 110px;
     border-radius: 50%;
-    border: 3px solid #3E1A9C;
+    border: 3px solid #EFEFEF;
 }
 
 .img-container img{
