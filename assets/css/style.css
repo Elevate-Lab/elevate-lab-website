@@ -1,6 +1,7 @@
 *{
     margin :0;
     font-weight: 400;
+    background-color: #0A192F;
 }
 
                     /* Navigation Bar */
@@ -21,7 +22,10 @@
 .nav-title{
     font-size:1.85rem;
     font-weight: bold;
-    color: black;
+    color: #D7D7D7;;
+}
+a.item-nav{
+    color: #D7D7D7;
 }
 a.item-nav:hover{
     background-color:inherit;
@@ -35,4 +39,49 @@ a.item-nav:hover{
     background-color: inherit;
 }
 
-                    /* Navigation Bar End*/
+/* Navigation Bar End*/
+
+/* Banner Section  */
+.banner-section{
+    padding: 70px 10px 10px 10px;
+    
+}
+.heading{
+    font-size: 30px;  
+    color: #D7D7D7;  
+    font-weight: 700;
+}
+.subheading{
+    line-height: 29px;
+    text-align: left;
+    color: #D7D7D7;
+    font-size: 1.25rem;
+}
+.image-half{
+    text-align: center;
+}
+.banner-image{
+    width: 300px;
+}
+.card-section{
+    padding: 70px 0px;
+}
+.card-feature{
+    padding: 20px;
+}
+.feature-container{
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.feature-heading{
+    color: #D7D7D7;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.feature-subheading{
+    color: #D7D7D7;
+    font-size: 14px;
+    line-height: 22px;
+}
+/* Banner Section End */
