@@ -1,12 +1,12 @@
-Here's how you can set up and contribute to this Project!
+Here's how you can set up and contribute to this Project! :smile: :smile:
 
 ## Setting Up Git Bash (Only for First-Timers)
 
 If you're unfamiliar with Git Bash or if this is your first time contributing, follow these steps to get started:
 
-1. Download git bash for your device: [Git Bash](https://git-scm.com/downloads)
+1. Download Git Bash for your device :computer: :desktop_computer: : [Git Bash](https://git-scm.com/downloads)
 
-1. Open git bash anywhere on your local server by clicking the right mouse button. Then set up your name and email ID:
+1. Open Git Bash anywhere on your local server by clicking the right mouse button :computer_mouse:. Then set up your name and email ID:
 
 	`$ git config --global user.name "<Your_Name>"`
 	
@@ -14,13 +14,13 @@ If you're unfamiliar with Git Bash or if this is your first time contributing, f
 
 1. Go to [GitHub](http://github.com/) and create your account. Make sure that the email you use is the same one you used in Git Bash.
 
-And that's it! You're good to go.
+And that's it! :star_struck: You're good to go. :partying_face: :+1:
 
 ## Contributing to the Project 
 
 Once you have Git Bash up and running, you can start contributing to the project. Follow these steps to make sure that you get off on the right foot: 
  
-1. Fork the repository using the "Fork" feature above.
+1. Fork :fork_and_knife: the repository using the "Fork" feature above.
 
 1. Now, clone your forked repo. This can be done in two ways:
 
@@ -32,14 +32,14 @@ Once you have Git Bash up and running, you can start contributing to the project
 
 1. Now, go to the original repo and open the tab marked **"Issues"**. Here you'll find all the open issues that you can contribute to. Open any issue of your choice, and if it hasn't been claimed by any one yet, you can comment something along the lines of "I would like to work on this!" following which you will be assigned the selfsame issue. 
 
-1. Currently you are on the master branch. Working directly on the master branch is never advisable. 
-Create a new feature branch to work on. The benefit of creating a feature branch is that if you ever feel the need of rolling back some changes you made, you can always switch over to another branch without risking data loss from the main/master branch. In order to create a new branch, open git bash in your local repo and type:
+1. Currently you are on the master branch :brain:. Working directly on the master branch is never advisable. 
+Create a new feature branch to work on. The benefit of creating a feature branch is that if you ever feel the need of rolling back :clock12: :clock9: :clock6: :clock3: :clock12: some changes you made, you can always switch over to another branch without risking data loss from the main/master branch. In order to create a new branch, open git bash in your local repo and type:
 
 	`$ git checkout -b <Your_Feature_Branch_Name>`
 	
-This will create a new branch named <Your_Feature_Branch_Name>. For more info on the [Checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout) command, follow the link! 
+	This will create a new branch named <Your_Feature_Branch_Name>. For more info on the [Checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout) command, follow the link! 
 
-1. Work! This is where you put your web development skills to use and find the best possible solution to the issue. Use Google, Stack Overflow, MDN Docs, or whatever resource you need, and finish contributing to the Project. Make sure to test the finished version of your files for any errors or bugs, and for future reference, keep a screenshot of the final version.
+1. Work! :man_mechanic: :woman_mechanic: This is where you put your web development :earth_asia: skills to use and find the best possible solution to the issue. Use Google, Stack Overflow, MDN Docs, or whatever resource you need, and finish contributing to the Project. Make sure to test the finished version of your files for any errors or bugs, and for future reference, keep a screenshot of the final version. :rocket: 
 
 1. Once you have added the necessary files to your local repo, open Git Bash and type:
 
@@ -87,16 +87,16 @@ This will create a new branch named <Your_Feature_Branch_Name>. For more info on
 
 This will finally push the changes to your forked repo. Summarizing, you now have a branch named <Your_Feature_Branch_Name> which contains the changes that you have made. The next step is to first merge this with your own master branch, and then send a pull request to the original repo. 
 
-## Sending a Pull Request
+## Sending a Pull Request :email:
 
 Remember the screenshots you took of the final editions of your work? Well, they're about to come in handy! Here are some basic tips on making a good pull request:
 
 1. Choose a relevant title. Usually, you can mention what change you've made or what Issue Number you've resolved.
 
-1. Include screenshots of your changes in the PR, as this will help the Reviewer easily see the work you've done.
+1. Include screenshots of your changes in the PR :inbox_tray:, as this will help the Reviewer easily see the work you've done. 
 
 1. Mention any other vital info that you find worth mentioning. 
 
 1. Send the PR to the original repo. Your PR will be reviewed, and if the editions are deemed satisfactory, the PR will be merged with the original repo. However, sometimes Reviewers might leave a review on your PR, describing any further changes you may need to make, so make sure you do. 
 
-### Happy Hacktoberfest! 
+### Happy Hacktoberfest! :ghost: :ghost: :skull: :skull:
