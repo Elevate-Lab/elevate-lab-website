@@ -9,6 +9,7 @@ If you're unfamiliar with Git Bash or if this is your first time contributing, f
 1. Open git bash anywhere on your local server by clicking the right mouse button. Then set up your name and email ID:
 
 	`$ git config --global user.name "<Your_Name>"`
+	
 	`$ git config --global user.email "<Your_Email>"`
 
 1. Go to [GitHub](http://github.com/) and create your account. Make sure that the email you use is the same one you used in Git Bash.
@@ -25,7 +26,7 @@ Once you have Git Bash up and running, you can start contributing to the project
 
 	1. Open Git Bash in your local system (in the directory of your choice) and type the following command: 
 
-	`$ git clone <forked_repo_link>`
+		`$ git clone <forked_repo_link>`
 
 	1. You can also simply download the files in your Forked repo in a compressed format, using the option under the Code dropdown menu.
 
@@ -44,35 +45,39 @@ This will create a new branch named <Your_Feature_Branch_Name>. For more info on
 
 	`$ git add .`
 
-This adds all the new files to the staging area, where they are made ready to be committed.
+	This adds all the new files to the staging area, where they are made ready to be committed.
 
 	`$ git commit -m <Optional_Message>`
 
-The <Optional_Message> should be helpful and should describe what you have changed.
+	The <Optional_Message> should be helpful and should describe what you have changed.
 
 1. Here, you can encounter a problem. More often than not, by the time developers finish working on their version of the branch, they will discover that the master branch in the original repo was updated, and so now their forked repo is severel commits behind. 
+
 	1. In order to resolve this issue, open Git Bash and type:
 
-	`$ git remote add upstream <Original_Repo_Link>`
+		`$ git remote add upstream <Original_Repo_Link>`
 
 	1. This will add a remote to your local repo under the branch name 'upstream'. Then:
 
-	`$ git fetch upstream`
+		`$ git fetch upstream`
 
 	1. This will fetch all the changes that were made on the master branch after you forked it.
 
-	`$ git checkout master`
+		`$ git checkout master`
 
 	1. Switch over to your master branch.
 
-	`$ git rebase upstream/master`
+		`$ git rebase upstream/master`
 
 	1. Rebasing will basically bring your master branch up to date with the master branch of the original repo. For more info on [Rebase] (https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase), follow the link. Now since your master branch is up to date, let's do the same for your feature branch. 
 	
-	`$ git checkout master`
-	`$ git pull origin master`
-	`$ git checkout <Your_Feature_Branch_Name>`
-	`$ git rebase master`
+		`$ git checkout master`
+		
+		`$ git pull origin master`
+		
+		`$ git checkout <Your_Feature_Branch_Name>`
+		
+		`$ git rebase master`
 	
 	This will bring your feature branch up to date with your master branch. Now, you are *finally* read to push the changes!
 	
