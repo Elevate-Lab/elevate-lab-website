@@ -11,7 +11,9 @@ If you're unfamiliar with Git Bash or if this is your first time contributing, f
 	`$ git config --global user.name "<Your_Name>"`
 	`$ git config --global user.email "<Your_Email>"`
 
-3.
+1. Go to [GitHub](http://github.com/) and create your account. Make sure that the email you use is the same one you used in Git Bash.
+
+And that's it! You're good to go.
 
 ## Contributing to the Project 
 
@@ -19,24 +21,26 @@ Once you have Git Bash up and running, you can start contributing to the project
  
 1. Fork the repository using the "Fork" feature above.
 
-1. Now, clone your Forked repo. This can be done in two ways:
+1. Now, clone your forked repo. This can be done in two ways:
 
-	1. If you have Git Bash installed, then simply copy the link to your Forked repo, open Git Bash in your local system, and type 
+	1. Open Git Bash in your local system (in the directory of your choice) and type the following command: 
 
 	`$ git clone <forked_repo_link>`
 
-	1. If you do not have Git Bash installed, then you can simply download the files in your Forked repo in a compressed format, using the option under the Code dropdown menu.
+	1. You can also simply download the files in your Forked repo in a compressed format, using the option under the Code dropdown menu.
 
-1. Now, go to the original repo and open the tab marked "Issues". Here you'll find all the open issues that you can contribute to. Open any issue of your choice, and if it hasn't been claimed by any one yet, you can comment something along the lines of "I would like to work on this!" following which you will be assigned the selfsame issue. 
+1. Now, go to the original repo and open the tab marked **"Issues"**. Here you'll find all the open issues that you can contribute to. Open any issue of your choice, and if it hasn't been claimed by any one yet, you can comment something along the lines of "I would like to work on this!" following which you will be assigned the selfsame issue. 
 
 1. Currently you are on the master branch. Working directly on the master branch is never advisable. 
 Create a new feature branch to work on. The benefit of creating a feature branch is that if you ever feel the need of rolling back some changes you made, you can always switch over to another branch without risking data loss from the main/master branch. In order to create a new branch, open git bash in your local repo and type:
 
 	`$ git checkout -b <Your_Feature_Branch_Name>`
+	
+This will create a new branch named <Your_Feature_Branch_Name>. For more info on the [Checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout) command, follow the link! 
 
-5. Work! This is where you put your web development skills to use and find the best possible solution to the issue. Use Google, Stack Overflow, MDN Docs, or whatever resource you need, and finish contributing to the Project. Make sure to test the finished version of your files for any errors or bugs, and for future reference, keep a screenshot of the final version.
+1. Work! This is where you put your web development skills to use and find the best possible solution to the issue. Use Google, Stack Overflow, MDN Docs, or whatever resource you need, and finish contributing to the Project. Make sure to test the finished version of your files for any errors or bugs, and for future reference, keep a screenshot of the final version.
 
-6. Once you have added the necessary files to your local repo, open Git Bash and type:
+1. Once you have added the necessary files to your local repo, open Git Bash and type:
 
 	`$ git add .`
 
@@ -46,28 +50,48 @@ This adds all the new files to the staging area, where they are made ready to be
 
 The <Optional_Message> should be helpful and should describe what you have changed.
 
-7. Here, you can encounter a problem. More often than not, by the time developers finish working on their version of the branch, they will discover that the master branch in the original repo was updated, and so now their Forked repo is severel commits behind. In order to resolve this issue, open Git Bash and type:
+1. Here, you can encounter a problem. More often than not, by the time developers finish working on their version of the branch, they will discover that the master branch in the original repo was updated, and so now their forked repo is severel commits behind. 
+	1. In order to resolve this issue, open Git Bash and type:
 
 	`$ git remote add upstream <Original_Repo_Link>`
 
-This will add a remote to your local repo under the branch name 'upstream'. Then:
+	1. This will add a remote to your local repo under the branch name 'upstream'. Then:
 
 	`$ git fetch upstream`
 
-This will fetch all the changes that were made on the master branch after you forked it.
+	1. This will fetch all the changes that were made on the master branch after you forked it.
 
 	`$ git checkout master`
 
-Switch over to your master branch.
+	1. Switch over to your master branch.
 
 	`$ git rebase upstream/master`
 
+	1. Rebasing will basically bring your master branch up to date with the master branch of the original repo. For more info on [Rebase] (https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase), follow the link. Now since your master branch is up to date, let's do the same for your feature branch. 
+	
+	`$ git checkout master`
+	`$ git pull origin master`
+	`$ git checkout <Your_Feature_Branch_Name>`
+	`$ git rebase master`
+	
+	This will bring your feature branch up to date with your master branch. Now, you are *finally* read to push the changes!
+	
+1. Type the following command to push the changes onto your remote repo:
 
+	`$ git push origin <Your_Feature_Branch_Name>` 
 
-	`$ git push origin master` 
+This will finally push the changes to your forked repo. Summarizing, you now have a branch named <Your_Feature_Branch_Name> which contains the changes that you have made. The next step is to first merge this with your own master branch, and then send a pull request to the original repo. 
 
-This will finally push the changes to your Forked repo.
+## Sending a Pull Request
 
-7. Now, send a pull request to the original repo, describing briefly what changes you have made in order to resolve the issue. Your PR will be reviewed, and if the editions are deemed satisfactory, the PR will be merged with the original repo.
+Remember the screenshots you took of the final editions of your work? Well, they're about to come in handy! Here are some basic tips on making a good pull request:
 
-Happy Hacktoberfest! 
+1. Choose a relevant title. Usually, you can mention what change you've made or what Issue Number you've resolved.
+
+1. Include screenshots of your changes in the PR, as this will help the Reviewer easily see the work you've done.
+
+1. Mention any other vital info that you find worth mentioning. 
+
+1. Send the PR to the original repo. Your PR will be reviewed, and if the editions are deemed satisfactory, the PR will be merged with the original repo. However, sometimes Reviewers might leave a review on your PR, describing any further changes you may need to make, so make sure you do. 
+
+### Happy Hacktoberfest! 
