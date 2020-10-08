@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is to make Website to help expand the idea!
@@ -34,6 +34,9 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/Shreesh90"><img src="https://avatars1.githubusercontent.com/u/6941016?v=4" width="100px;" alt=""/><br /><sub><b>Shreesh90</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Shreesh90" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/IC1101Virgo"><img src="https://avatars1.githubusercontent.com/u/59052808?v=4" width="100px;" alt=""/><br /><sub><b>Anjali Chaturvedi</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=IC1101Virgo" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/cyber-venom003"><img src="https://avatars1.githubusercontent.com/u/58390399?v=4" width="100px;" alt=""/><br /><sub><b>cyber-venom003</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=cyber-venom003" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.hiration.com/dieu/personal-website/garvitchittora/"><img src="https://avatars0.githubusercontent.com/u/54021348?v=4" width="100px;" alt=""/><br /><sub><b>garvitchittora</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=garvitchittora" title="Code">💻</a></td>
   </tr>
 </table>
 
