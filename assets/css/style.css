@@ -1,0 +1,38 @@
+*{
+    margin :0;
+    font-weight: 400;
+}
+
+                    /* Navigation Bar */
+.nav-container{
+    padding: 1% 0%;
+    font-size: 1.1rem;
+}
+.navigation-bar{
+    margin: 0% 10%;
+}
+.navbar-item img{
+    max-height: none;
+}
+.logo-img{
+    height: 65px;
+    margin-right: 5%;
+}
+.nav-title{
+    font-size:1.85rem;
+    font-weight: bold;
+    color: black;
+}
+a.item-nav:hover{
+    background-color:inherit;
+    color: #371AA1;
+    font-weight: 600;
+}
+.navbar-burger{
+    height: inherit;
+}
+.navbar-burger:hover{
+    background-color: inherit;
+}
+
+                    /* Navigation Bar End*/

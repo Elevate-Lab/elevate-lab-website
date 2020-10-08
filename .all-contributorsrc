@@ -76,6 +76,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "stygian-96",
+      "name": "stygian-96",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/54054289?v=4",
+      "profile": "https://github.com/stygian-96",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "Jyotika999",
+      "name": "Incredible",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/54600270?v=4",
+      "profile": "https://github.com/Jyotika999",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "2802harsh",
+      "name": "Harshdeep Singh Pruthi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/58396239?v=4",
+      "profile": "https://github.com/2802harsh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "uglyprincess",
+      "name": "Aaryan Bhardwaj",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/57333555?v=4",
+      "profile": "https://github.com/uglyprincess",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
