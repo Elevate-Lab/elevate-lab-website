@@ -112,6 +112,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kashc11",
+      "name": "Kash",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/63075125?v=4",
+      "profile": "https://github.com/kashc11",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
