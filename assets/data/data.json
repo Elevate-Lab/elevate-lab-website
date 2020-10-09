@@ -1,20 +1,60 @@
 {
-    "Maintainers":[{
-        "firstname":"firstname1","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname1","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    },{
-        "firstname":"firstname2","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname2","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    }],
-    "Contributors":[{
-        "firstname":"firstname3","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname3","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    },{
-        "firstname":"firstname4","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname4","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    },{
-        "firstname":"firstname5","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname5","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    },{
-        "firstname":"firstname6","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname6","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    },{
-        "firstname":"firstname7","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname7","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    },{
-        "firstname":"firstname8","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname8","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
-    }]
+  "Maintainers": [{
+    "firstname": "firstname1",
+    "img": "https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png",
+    "lastname": "lastname1",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com/"
+  }, {
+    "firstname": "firstname2",
+    "img": "https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png",
+    "lastname": "lastname2",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com/"
+  }],
+  "Contributors": [{
+    "firstname": "Vishesh",
+    "img": "https://avatars1.githubusercontent.com/u/58396433?v=4",
+    "lastname": "Mittal",
+    "github": "https://github.com/Elemento24",
+    "linkedin": "https://www.linkedin.com/in/vishesh-mittal-9551a4199/",
+    "twitter": "https://twitter.com/Vishesh30493930"
+  }, {
+    "firstname": "firstname4",
+    "img": "https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png",
+    "lastname": "lastname4",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com/"
+  }, {
+    "firstname": "firstname5",
+    "img": "https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png",
+    "lastname": "lastname5",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com/"
+  }, {
+    "firstname": "firstname6",
+    "img": "https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png",
+    "lastname": "lastname6",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com/"
+  }, {
+    "firstname": "firstname7",
+    "img": "https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png",
+    "lastname": "lastname7",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com/"
+  }, {
+    "firstname": "firstname8",
+    "img": "https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png",
+    "lastname": "lastname8",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com/"
+  }]
 }
