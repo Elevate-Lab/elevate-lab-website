@@ -45,7 +45,7 @@ Contributors can share websites, youtube videos, courses which helped them build
 
          Your Interests and Hobbies: Exploring Tech Related Stuffs,  Learnings to Implementation!!
               
-         Useful Resources:
+         Useful Resources:heart_eyes::heart_eyes::
                    
                        * An Awesome Resource to learn Git: https://git-scm.com/book/en/v2/
 
