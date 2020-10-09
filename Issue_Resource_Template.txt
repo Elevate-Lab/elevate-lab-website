@@ -60,6 +60,29 @@ Contributors can share websites, youtube videos, courses which helped them build
         <!-- ________ Contributor's suggest END ________  -->
 
 
+
+
+        <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Yash wandhare
+
+         Your Interests and Hobbies:To learn deepest aspects a language can do.It seems strange but coding is my hobby.
+              
+         Useful Resources:
+                   
+                       * Javascript tutorial for begginers:https://javascript30.com/
+
+                       
+                       * Best channel to learn css effects:https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog
+
+
+                       * Begginers guide for Front-end development:https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
+
+
         
         
         
