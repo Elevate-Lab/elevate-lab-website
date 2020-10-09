@@ -95,6 +95,20 @@ a.item-nav:hover{
 }
 /* Banner Section End */
 
+.new {
+    background-color: #01122b;
+    font-size: 30px;
+    color: #D7D7D7;
+    padding: 0px 15px 15px 15px;
+}
+
+.new p {
+    padding: 15px 0px 0px 0px;
+}
+
+.bottom-icon {
+    background-color: #01122b;
+}  
 /* Cards --> Start*/
 
 .line-text{
