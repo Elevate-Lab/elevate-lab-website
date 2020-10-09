@@ -60,6 +60,27 @@ Contributors can share websites, youtube videos, courses which helped them build
         <!-- ________ Contributor's suggest END ________  -->
 
 
+
+	<!-- ________ Contributor's suggest START ________  -->
+      
+        Your Name: Aarushi
+
+        Your Interests and Hobbies: learning new tecnical skills, reading books :)
+              
+        Useful Resources:
+                   
+                      * Resource to learn javascript: https://javascript.info/
+
+                       
+                      * Resource to begin with flutter developement: https://youtu.be/x0uinJvhNxI
+
+
+                      * Resource to begin with coding/roadmap to coding: https://www.youtube.com/watch?v=RquBcwvgMbM   
+                       
+         
+
+       <!-- ________ Contributor's suggest END ________  -->
+
         
         
         
