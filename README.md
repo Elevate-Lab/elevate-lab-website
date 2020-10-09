@@ -50,3 +50,6 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## How to Contribute 🚀
+[Here's](https://github.com/Elevate-Lab/elevate-lab-website/blob/main/How%20To%20Contribute.md) how you can set up and contribute to this Project! 😄 😄 
