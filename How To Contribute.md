@@ -32,7 +32,7 @@ Once you have Git Bash up and running, you can start contributing to the project
 
 1. Now, go to the original repo and open the tab marked **"Issues"**. Here you'll find all the open issues that you can contribute to. Open any issue of your choice, and if it hasn't been claimed by any one yet, you can comment something along the lines of "I would like to work on this!" following which you will be assigned the selfsame issue. 
 
-1. Currently you are on the master branch :brain:. Working directly on the master branch is never advisable. 
+1. Currently you are on the main/master branch :brain:. Working directly on the main/master branch is never advisable. 
 Create a new feature branch to work on. The benefit of creating a feature branch is that if you ever feel the need of rolling back :clock12: :clock9: :clock6: :clock3: :clock12: some changes you made, you can always switch over to another branch without risking data loss from the main/master branch. In order to create a new branch, open git bash in your local repo and type:
 
 	`$ git checkout -b <Your_Feature_Branch_Name>`
@@ -51,7 +51,7 @@ Create a new feature branch to work on. The benefit of creating a feature branch
 
 	The <Optional_Message> should be helpful and should describe what you have changed.
 
-1. Here, you can encounter a problem. More often than not, by the time developers finish working on their version of the branch, they will discover that the master branch in the original repo was updated, and so now their forked repo is severel commits behind. 
+1. Here, you can encounter a problem. More often than not, by the time developers finish working on their version of the branch, they will discover that the main/master branch in the original repo was updated, and so now their forked repo is severel commits behind. 
 
 	1. In order to resolve this issue, open Git Bash and type:
 
@@ -61,31 +61,31 @@ Create a new feature branch to work on. The benefit of creating a feature branch
 
 		`$ git fetch upstream`
 
-	1. This will fetch all the changes that were made on the master branch after you forked it.
+	1. This will fetch all the changes that were made on the main/master branch after you forked it.
 
-		`$ git checkout master`
+		`$ git checkout main`
 
-	1. Switch over to your master branch.
+	1. Switch over to your main/master branch.
 
-		`$ git rebase upstream/master`
+		`$ git rebase upstream/main`
 
-	1. Rebasing will basically bring your master branch up to date with the master branch of the original repo. For more info on [Rebase] (https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase), follow the link. Now since your master branch is up to date, let's do the same for your feature branch. 
+	1. Rebasing will basically bring your main/master branch up to date with the main/master branch of the original repo. For more info on [Rebase] (https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase), follow the link. Now since your main/master branch is up to date, let's do the same for your feature branch. 
 	
-		`$ git checkout master`
+		`$ git checkout main`
 		
-		`$ git pull origin master`
+		`$ git pull origin main`
 		
 		`$ git checkout <Your_Feature_Branch_Name>`
 		
-		`$ git rebase master`
+		`$ git rebase main`
 	
-	This will bring your feature branch up to date with your master branch. Now, you are *finally* read to push the changes!
+	This will bring your feature branch up to date with your main/master branch. Now, you are *finally* read to push the changes!
 	
 1. Type the following command to push the changes onto your remote repo:
 
 	`$ git push origin <Your_Feature_Branch_Name>` 
 
-This will finally push the changes to your forked repo. Summarizing, you now have a branch named <Your_Feature_Branch_Name> which contains the changes that you have made. The next step is to first merge this with your own master branch, and then send a pull request to the original repo. 
+This will finally push the changes to your forked repo. Summarizing, you now have a branch named <Your_Feature_Branch_Name> which contains the changes that you have made. The next step is to first merge this with your own main/master branch, and then send a pull request to the original repo. 
 
 ## Sending a Pull Request :email:
 
