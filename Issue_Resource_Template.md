@@ -23,7 +23,6 @@
 
                        * Resource 3:   
 
-
 </pre>
 <!------ ________ Contributor's suggest END ________  ------>
 
@@ -60,9 +59,6 @@
 
                        *  Python for beginners: <a href="https://developers.google.com/edu/python/">https://developers.google.com/edu/python/</a>
 
-
-
-
 </pre>
 <!------ ________ Contributor's suggest END ________  ------>
 
@@ -90,9 +86,6 @@
 
                        *  Python data science Crash Course: <a href="https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/">https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/</a>
 
-
-
-
 </pre>
 <!------ ________ Contributor's suggest END ________  ------>
 
@@ -117,9 +110,6 @@
 
 
                        * Begginers guide for Front-end development:<a href="https://www.upwork.com/hiring/development/">https://www.upwork.com/hiring/development/beginners-guide-to-front-end-development/</a>
-
-
-
 
 </pre>
 <!------ ________ Contributor's suggest END ________  ------>
@@ -146,7 +136,6 @@
 
 
                       * Resource to begin with coding/roadmap to coding: <a href="https://www.youtube.com/watch?v=RquBcwvgMbM">https://www.youtube.com/watch?v=RquBcwvgMbM</a>   
-
 
 </pre>
 <!------ ________ Contributor's suggest END ________  ------>
