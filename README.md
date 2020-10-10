@@ -22,9 +22,15 @@ Let's learn and make this. 🌞
 
 ![Sitemap_Tech_Stack](assets/images/elevate-lab-website.png)
 
+
+## Resources to Get started
+
+For a list of resources used by contributors to learn and develop, refer here. [Resources: Getting Started](https://github.com/Elevate-Lab/elevate-lab-website/blob/main/Issue_Resource_Template.txt)
+
 ## How to Contribute
 
 Follow the [Contribution Guidelines](https://github.com/Elevate-Lab/elevate-lab-website/blob/main/How%20To%20Contribute.md) to improve and add to this project.
+
 
 ## Contributors ✨
 
