@@ -122,6 +122,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "UsmanAhmadSaeed",
+      "name": "Usman Ahmad Saeed",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20966983?v=4",
+      "profile": "http://UsmanAhmadSaeed.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
