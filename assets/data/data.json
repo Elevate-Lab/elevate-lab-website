@@ -23,5 +23,7 @@
         "firstname":"firstname8","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname8","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
     },{
         "firstname":"Ayush","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Baranwal","github":"https://github.com/Ayush-Baranwal","linkedin":"https://www.linkedin.com/in/ayush-baranwal-5499a5190/","twitter":"https://twitter.com/"   
+    }, {
+        "firstname": "Aaryan","img": "https://avatars2.githubusercontent.com/u/57333555?s=460&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4","lastname": "Bhardwaj","github": "https://github.com/uglyprincess","linkedin":"https://www.linkedin.com/in/aaryan-bhardwaj-2b3a4b19b/","twitter":"https://twitter.com/LoquaciousTurt1"
     }]
 }
