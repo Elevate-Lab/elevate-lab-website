@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is to make Website to help expand the idea!
@@ -47,6 +47,9 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/uglyprincess"><img src="https://avatars2.githubusercontent.com/u/57333555?v=4" width="100px;" alt=""/><br /><sub><b>Aaryan Bhardwaj</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=uglyprincess" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kashc11"><img src="https://avatars3.githubusercontent.com/u/63075125?v=4" width="100px;" alt=""/><br /><sub><b>Kash</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=kashc11" title="Code">💻</a></td>
     <td align="center"><a href="http://UsmanAhmadSaeed.me"><img src="https://avatars2.githubusercontent.com/u/20966983?v=4" width="100px;" alt=""/><br /><sub><b>Usman Ahmad Saeed</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=UsmanAhmadSaeed" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://password123-58f8c.web.app/"><img src="https://avatars2.githubusercontent.com/u/59123172?v=4" width="100px;" alt=""/><br /><sub><b>Yash Wandhare</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Yash7818" title="Documentation">📖</a></td>
   </tr>
 </table>
 
