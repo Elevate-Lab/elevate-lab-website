@@ -1,98 +1,126 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 
-*{
-    margin :0;
+* {
+    margin: 0;
     font-weight: 400;
     background-color: #0A192F;
 }
 
-body{
+body {
     min-height: 100vh;
 }
-.text-center{
+
+.text-center {
     text-align: center;
 }
 
 
 /* Navigation Bar */
-.nav-container{
+.nav-container {
     padding: 1% 0%;
     font-size: 1.1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 30;
 }
-.navigation-bar{
+
+.navigation-bar {
     margin: 0% 10%;
 }
-.navbar-item img{
+
+.navbar-item img {
     max-height: none;
 }
-.logo-img{
+
+.logo-img {
     height: 65px;
     margin-right: 5%;
 }
-.nav-title{
-    font-size:1.85rem;
+
+.nav-title {
+    font-size: 1.85rem;
     font-weight: bold;
-    color: #D7D7D7;;
+    color: #D7D7D7;
+    ;
 }
-a.item-nav{
+
+a.item-nav {
     color: #D7D7D7;
 }
-a.item-nav:hover{
-    background-color:inherit;
+
+a.item-nav:hover {
+    background-color: inherit;
     color: #371AA1;
     font-weight: 600;
 }
-.navbar-burger{
+
+.navbar-burger {
     height: inherit;
 }
-.navbar-burger:hover{
+
+.navbar-burger:hover {
     background-color: inherit;
 }
 
 /* Navigation Bar End*/
 
 /* Banner Section  */
-.banner-section{
+.banner-section {
     padding: 70px 10px 30px 10px;
+
+    /* Enough space for the sticky nav */
+    margin-top: 5.25rem;
 }
-.heading{
-    font-size: 30px;  
-    color: #D7D7D7;  
+
+.heading {
+    font-size: 30px;
+    color: #D7D7D7;
     font-weight: 700;
 }
-.subheading{
+
+.subheading {
     line-height: 29px;
     text-align: left;
     color: #D7D7D7;
     font-size: 1.25rem;
 }
-.image-half{
+
+.image-half {
     text-align: center;
 }
-.banner-image{
+
+.banner-image {
     width: 300px;
 }
-.card-section{
+
+.card-section {
     padding: 70px 0px;
 }
-.card-feature{
+
+.card-feature {
     padding: 20px;
 }
-.feature-container{
+
+.feature-container {
     padding: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.feature-heading{
+
+.feature-heading {
     color: #D7D7D7;
     font-size: 16px;
     margin-bottom: 10px;
     font-weight: 700;
 }
-.feature-subheading{
+
+.feature-subheading {
     color: #D7D7D7;
     font-size: 14px;
     line-height: 22px;
 }
+
 /* Banner Section End */
 
 .new {
@@ -108,22 +136,25 @@ a.item-nav:hover{
 
 .bottom-icon {
     background-color: #01122b;
-}  
+}
+
 /* Team Section Start*/
 
-.line-text{
+.line-text {
     border-top: 1px white solid;
     text-align: center;
 }
-.text-with-line{
+
+.text-with-line {
     transform: translateY(-33px);
     background-color: #0a192f;
     padding: 1rem;
     display: inline-block;
 }
-.card{
+
+.card {
     margin: auto;
-    box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
+    box-shadow: -2px 1px 4px rgba(0, 0, 0, 0.2), -3px 2px 12px rgba(0, 0, 0, 0.1);
     width: 280px;
     height: 240px;
     background-color: #081529;
@@ -137,17 +168,17 @@ a.item-nav:hover{
     margin-bottom: 20px;
 }
 
-.card *{
+.card * {
     background-color: #081529;
 }
 
-.info{
+.info {
     display: flex;
     flex-direction: row;
     padding: 16px;
 }
 
-.img-container{
+.img-container {
     min-width: 110px;
     max-width: 110px;
     height: 110px;
@@ -155,41 +186,42 @@ a.item-nav:hover{
     border: 3px solid #EFEFEF;
 }
 
-.img-container img{
+.img-container img {
     width: 100%;
     border-radius: 50%;
 }
 
-.name-container{
+.name-container {
     margin-top: 24px;
-    padding-left: 24px ;
+    padding-left: 24px;
     width: 100%;
 }
 
-.break{
-    width: 80% ;
+.break {
+    width: 80%;
     margin: auto;
     border-top: 2px solid #EFEFEF;
     margin-top: 16px;
 }
 
-.social-links{
+.social-links {
     padding: 16px 48px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
-.social-links a{
+.social-links a {
     font-size: 20px;
     color: #EFEFEF;
 }
+
 /* Team Section End */
 
 /* Project Section  */
-.project-card{
+.project-card {
     margin: auto;
-    box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
+    box-shadow: -2px 1px 4px rgba(0, 0, 0, 0.2), -3px 2px 12px rgba(0, 0, 0, 0.1);
     width: 320px;
     /* height: 300px; */
     background-color: #081529;
@@ -200,15 +232,15 @@ a.item-nav:hover{
     margin-bottom: 20px;
 }
 
-.project-card *{
+.project-card * {
     background-color: #081529;
 }
 
-.project-info{
+.project-info {
     padding: 16px;
 }
 
-.project-img-container{
+.project-img-container {
     min-width: 150px;
     max-width: 150px;
     height: 150px;
@@ -218,44 +250,50 @@ a.item-nav:hover{
     margin-top: -70px;
 }
 
-.project-img-container img{
+.project-img-container img {
     width: 100%;
     border-radius: 50%;
 }
 
-.view-project-button{
+.view-project-button {
     background-color: #3E1A9C;
     border-width: 0px;
 }
 
-.view-project-button strong{
+.view-project-button strong {
     background-color: #3E1A9C !important;
     color: white;
 }
 
-.project-name-container{
+.project-name-container {
     margin-top: 24px;
     /* padding-left: 24px ; */
     text-align: center;
     width: 100%;
 }
-.project-name{
+
+.project-name {
     font-weight: bold;
     font-size: 21px;
 }
-.project-description{
-    padding:10px;
+
+.project-description {
+    padding: 10px;
 }
-.social-links-a{
+
+.social-links-a {
     color: white;
     font-size: 24px;
     padding: 0 10px;
 }
-.author-heading{
+
+.author-heading {
     font-weight: bold;
     font-size: 14px;
 }
-.author-name{
+
+.author-name {
     font-size: 14px;
 }
+
 /* Project Section End*/
