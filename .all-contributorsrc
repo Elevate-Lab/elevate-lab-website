@@ -176,6 +176,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "rush-tea",
+      "name": "Adarsh Tripathi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/64785626?v=4",
+      "profile": "https://github.com/rush-tea",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
