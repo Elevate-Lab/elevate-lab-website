@@ -1,7 +1,8 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 This repository is to make Website to help expand the idea!
 The website will contain information regarding all the wonderful people as well as events associated with the same!🌟
