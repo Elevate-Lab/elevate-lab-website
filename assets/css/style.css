@@ -183,3 +183,27 @@ a.item-nav:hover{
     font-size: 20px;
     color: #EFEFEF;
 }
+.contactsection{
+    display: flex;
+    flex-direction: row;
+    padding: 16px; 
+    margin: auto;
+    box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
+    width: 280px;
+    height: 240px;
+    background-color: #081529;
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    border-top-left-radius: 75px;
+    border-right: 5px solid #3E1A9C;
+    font-family: 'Poppins', sans-serif;
+    color: #EFEFEF;
+    margin-bottom: 20px; 
+}
+.contactsection #messagebtn{
+    background: green;
+}
+.contactsection .inputbox{
+    background: wheat;
+}
