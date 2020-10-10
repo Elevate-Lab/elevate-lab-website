@@ -1,0 +1,36 @@
+{
+    "Maintainers":[{
+        "firstname":"firstname1","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname1","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
+    },{
+        "firstname":"firstname2","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname2","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
+    }],
+    "Contributors":[{
+
+        "firstname":"Garvit","img":"https://avatars1.githubusercontent.com/u/54021348?s=460&u=23556344728d0d8727f195d1aca8672df898003b&v=4","lastname":"Chittora","github":"https://github.com/garvitchittora","linkedin":"https://www.linkedin.com/in/garvit-chittora/","twitter":"https://twitter.com/ChittoraGarvit"   
+    },{
+        "firstname":"Deepak","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Katre","github":"https://github.com/deepakDOTexe","linkedin":"https://www.linkedin.com/in/deepak-katre/","twitter":"https://twitter.com/deepak__katre"   
+    },{
+        "firstname":"Tejas","img":"https://avatars1.githubusercontent.com/u/58390399?s=460&u=0b6ce6c0c3bea8be09c4cdd43dd8c603232382da&v=4","lastname":"Agrawal","github":"https://github.com/cyber-venom003","linkedin":"https://www.linkedin.com/in/tejas-agrawal-1605301a5","twitter":"https://twitter.com/TejasAg35687912?s=08"   
+    },{  
+      "firstname":"Priyansh","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Singh","github":"https://github.com/Priyansh-09","linkedin":"https://linkedin.com/in/priyansh-singh-29209b192/","twitter":"https://twitter.com/_priyansh_09"   
+    },{
+
+       "firstname":"Harshdeep Singh","img":"https://avatars0.githubusercontent.com/u/58396239?s=460&u=b1583cfccf42ab99d3810fdb8ca037260bbfaffd&v=4","lastname":"Pruthi","github":"https://github.com/2802harsh","linkedin":"https://www.linkedin.com/in/harshdeep-singh-pruthi-25678b191/","twitter":"https://twitter.com/HarshdeepPruthi"  
+    },{
+
+        "firstname":"Jyotika","img":"https://avatars.githubusercontent.com/Jyotika999","lastname":"Bhatti","github":"https://github.com/Jyotika999","linkedin":"https://www.linkedin.com/in/jyotika-bhatti-a384a0194/","twitter":"https://twitter.com/BhattiJyotika"   
+
+    },{
+        "firstname":"Hardik","img":"https://avatars0.githubusercontent.com/u/58038410?s=460&u=94a87f71aaef953046b2155d58e88c3de0f81480&v=4.png","lastname":"Bajaj","github":"https://github.com/hardikbajaj","linkedin":"www.linkedin.com/in/hardikbajaj","twitter":"https://twitter.com/Soultitude_" 
+    },{
+        "firstname":"firstname8","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"lastname8","github":"https://github.com/","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"   
+    },{
+        "firstname":"Ayush","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Baranwal","github":"https://github.com/Ayush-Baranwal","linkedin":"https://www.linkedin.com/in/ayush-baranwal-5499a5190/","twitter":"https://twitter.com/"   
+    },{
+        "firstname":"Adarsh","img":"https://avatars1.githubusercontent.com/u/64785626?s=460&u=09aa5e8bbc03049637deab88e558093e01e924b8&v=4","lastname":"Tripathi","github":"https://github.com/rush-tea","linkedin":"https://www.linkedin.com/in/adarsh-tripathi-0a5a24191/","twitter":"https://twitter.com/tripathi3adarsh"   
+    }, {
+        "firstname": "Aaryan","img": "https://avatars2.githubusercontent.com/u/57333555?s=460&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4","lastname": "Bhardwaj","github": "https://github.com/uglyprincess","linkedin":"https://www.linkedin.com/in/aaryan-bhardwaj-2b3a4b19b/","twitter":"https://twitter.com/LoquaciousTurt1"
+    },{
+        "firstname": "Syauqy","img": "https://avatars2.githubusercontent.com/u/3627108?s=460&u=607024d478c2ef68afda62ba5a5bc83f23f01dfc&v=4","lastname": "Aziz","github": "https://github.com/syauqy","linkedin":"https://www.linkedin.com/in/syauqyaziz/","twitter":"https://twitter.com/syauqy"
+    }]
+}
