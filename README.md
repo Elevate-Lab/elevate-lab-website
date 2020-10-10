@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/Priyansh-09"><img src="https://avatars0.githubusercontent.com/u/55129015?v=4" width="100px;" alt=""/><br /><sub><b>Priyansh Singh</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Priyansh-09" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/xxx32"><img src="https://avatars0.githubusercontent.com/u/58389098?v=4" width="100px;" alt=""/><br /><sub><b>Aarushi</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=xxx32" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Ayush-Baranwal"><img src="https://avatars1.githubusercontent.com/u/58387808?v=4" width="100px;" alt=""/><br /><sub><b>Ayush-Baranwal</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Ayush-Baranwal" title="Code">💻</a></td>
+    <td align="center"><a href="http://jala.tech"><img src="https://avatars3.githubusercontent.com/u/3627108?v=4" width="100px;" alt=""/><br /><sub><b>Syauqy Nurul Aziz</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=syauqy" title="Documentation">📖</a></td>
   </tr>
 </table>
 
