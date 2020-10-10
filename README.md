@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -66,6 +66,9 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="http://jala.tech"><img src="https://avatars3.githubusercontent.com/u/3627108?v=4" width="100px;" alt=""/><br /><sub><b>Syauqy Nurul Aziz</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=syauqy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/rush-tea"><img src="https://avatars2.githubusercontent.com/u/64785626?v=4" width="100px;" alt=""/><br /><sub><b>Adarsh Tripathi</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=rush-tea" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hardikbajaj"><img src="https://avatars3.githubusercontent.com/u/58038410?v=4" width="100px;" alt=""/><br /><sub><b>Hardik Bajaj</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=hardikbajaj" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/l3g3ndf4i541"><img src="https://avatars0.githubusercontent.com/u/41689802?v=4" width="100px;" alt=""/><br /><sub><b>Faisal</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=l3g3ndf4i541" title="Documentation">📖</a></td>
   </tr>
 </table>
 
