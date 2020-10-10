@@ -7,7 +7,7 @@ $(document).ready(function(){
                 val=data["Maintainers"][i];
                 x="<div class='columns is-gapless'>";
                 x=x+"<div class='column'><div class='card'><div class='card-content info'><div class='img-container'><img src = ";
-                x=x+val["img"];
+                x=x+"'"+val["img"]+"'";
                 x=x+"/></div><div class='name-container'><h4 class='name'>"+val["firstname"];
                 x=x+"</h4><h4 class='name'>"+val["lastname"]+"</h4><div class='break'></div></div></div><div class='card-content social-links'><a href=";
                 x=x+val["github"]+"><i class='fab fa-github'></i></a><a href="+val["linkedin"];
@@ -16,7 +16,7 @@ $(document).ready(function(){
                 i=i+1;
                 val=data["Maintainers"][i];
                 x=x+"<div class='column'><div class='card'><div class='card-content info'><div class='img-container'><img src = ";
-                x=x+val["img"];
+                x=x+"'"+val["img"]+"'";
                 x=x+"/></div><div class='name-container'><h4 class='name'>"+val["firstname"];
                 x=x+"</h4><h4 class='name'>"+val["lastname"]+"</h4><div class='break'></div></div></div><div class='card-content social-links'><a href=";
                 x=x+val["github"]+"><i class='fab fa-github'></i></a><a href="+val["linkedin"];
@@ -34,7 +34,7 @@ $(document).ready(function(){
                 val=data["Contributors"][i];
                 x="<div class='columns is-gapless'>";
                 x=x+"<div class='column'><div class='card'><div class='card-content info'><div class='img-container'><img src = ";
-                x=x+val["img"];
+                x=x+"'"+val["img"]+"'";
                 x=x+"/></div><div class='name-container'><h4 class='name'>"+val["firstname"];
                 x=x+"</h4><h4 class='name'>"+val["lastname"]+"</h4><div class='break'></div></div></div><div class='card-content social-links'><a href=";
                 x=x+val["github"]+"><i class='fab fa-github'></i></a><a href="+val["linkedin"];
@@ -43,7 +43,7 @@ $(document).ready(function(){
                 i=i+1;
                 val=data["Contributors"][i];
                 x=x+"<div class='column'><div class='card'><div class='card-content info'><div class='img-container'><img src = ";
-                x=x+val["img"];
+                x=x+"'"+val["img"]+"'";
                 x=x+"/></div><div class='name-container'><h4 class='name'>"+val["firstname"];
                 x=x+"</h4><h4 class='name'>"+val["lastname"]+"</h4><div class='break'></div></div></div><div class='card-content social-links'><a href=";
                 x=x+val["github"]+"><i class='fab fa-github'></i></a><a href="+val["linkedin"];
@@ -52,7 +52,7 @@ $(document).ready(function(){
                 i=i+1;
                 val=data["Contributors"][i];
                 x=x+"<div class='column'><div class='card'><div class='card-content info'><div class='img-container'><img src = ";
-                x=x+val["img"];
+                x=x+"'"+val["img"]+"'";
                 x=x+"/></div><div class='name-container'><h4 class='name'>"+val["firstname"];
                 x=x+"</h4><h4 class='name'>"+val["lastname"]+"</h4><div class='break'></div></div></div><div class='card-content social-links'><a href=";
                 x=x+val["github"]+"><i class='fab fa-github'></i></a><a href="+val["linkedin"];
