@@ -59,6 +59,28 @@ Contributors can share websites, youtube videos, courses which helped them build
 
         <!-- ________ Contributor's suggest END ________  -->
 
+        
+
+        <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Adarsh Tripathi
+
+         Your Interests and Hobbies: Learning new things, Listening music and reading Quotes!!
+              
+         Useful Resources:
+                   
+                       * An Awesome Resource to learn React for beginners: https://youtu.be/Ke90Tje7VS0
+
+                       
+                       * Object oriented programming crash course:  https://www.freecodecamp.org/news/object-oriented-programming-crash-course/
+
+
+                       *  Python data science Crash Course: https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
+
 
 
 
