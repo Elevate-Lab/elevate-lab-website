@@ -7,6 +7,9 @@ This repository is to make Website to help expand the idea!
 The website will contain information regarding all the wonderful people as well as events associated with the same!🌟
 Let's learn and make this. 🌞
 
+## _**Link to Github Pages**_
+>[Elevate Lab Website](https://elevate-lab.github.io/elevate-lab-website/)
+
 ## Welcome to Elevate labs 🚀
 
 > Elevate Labs is here to make a change. We believe in contributing towards the community through technology.
