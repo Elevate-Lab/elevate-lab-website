@@ -185,6 +185,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "hardikbajaj",
+      "name": "Hardik Bajaj",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58038410?v=4",
+      "profile": "https://github.com/hardikbajaj",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
