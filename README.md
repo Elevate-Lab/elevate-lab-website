@@ -18,6 +18,10 @@ Let's learn and make this. 🌞
 
 ![Sitemap_Tech_Stack](assets/images/elevate-lab-website.png)
 
+## How to Contribute
+
+Follow the [Contribution Guidelines](https://github.com/Elevate-Lab/elevate-lab-website/blob/main/How%20To%20Contribute.md) to improve and add to this project.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
