@@ -3,7 +3,7 @@
 *{
     margin :0;
     font-weight: 400;
-    background-color: #0A192F !important;
+    background-color: #0A192F;
 }
 
 body{
@@ -95,21 +95,36 @@ a.item-nav:hover{
     line-height: 22px;
 }
 /* Banner Section End */
-
 .new {
     background-color: #01122b;
     font-size: 30px;
     color: #D7D7D7;
-    padding: 0px 15px 15px 15px;
+    padding: 15px;
 }
 
 .new p {
+    padding: 5px 0px 0px 0px;
+}
+
+footer .column{
     padding: 15px 0px 0px 0px;
+    background-color: #01122b;
 }
 
 .bottom-icon {
     background-color: #01122b;
-}  
+}
+
+footer a:hover{
+    color: #4C8BF5;
+}
+
+.about-text{
+    background-color: #01122b;
+    font-size: 20px;
+    color: #D7D7D7;
+    /* padding: 15px; */
+}
 /* Team Section Start*/
 
 .line-text{
