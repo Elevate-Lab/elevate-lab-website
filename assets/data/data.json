@@ -35,8 +35,9 @@
     }, {
 
         "firstname": "Jeff", "img": "https://avatars0.githubusercontent.com/u/25256989?s=400&u=13f9b6e4bb5db8d548eb29f3326885fe4ef906a9&v=4", "lastname": "Combs", "github": "https://github.com/jcombs0929", "linkedin": "https://www.linkedin.com/", "twitter": "https/twitter.com/"
-    }, {
+    },  {
+        "firstname": "Shivam","img": "https://avatars2.githubusercontent.com/u/58395557?s=400&u=cbe31d5fc7750c97487403d556c32e0928731bec&v=4", "lastname": "Agrahari", "github": "https://github.com/geeks5551","linkedin":"https://www.linkedin.com/in/shivam-agrahari-a044aa19b/", "twitter":"https://twitter.com/ShivamA99223730"
+    },  {
         "firstname": "Vishesh","img": "https://avatars1.githubusercontent.com/u/58396433?v=4","lastname": "Mittal","github": "https://github.com/Elemento24","linkedin":"https://www.linkedin.com/in/vishesh-mittal-9551a4199/","twitter":"https://twitter.com/Vishesh30493930"
-
     }]
 }
