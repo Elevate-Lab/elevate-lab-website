@@ -25,7 +25,7 @@ Let's learn and make this. 🌞
 
 ## Resources to Get started
 
-For a list of resources used by contributors to learn and develop, refer here. [Resources: Getting Started](https://github.com/Elevate-Lab/elevate-lab-website/blob/main/Issue_Resource_Template.txt)
+For a list of resources used by contributors to learn and develop, refer here. [Resources: Getting Started](./Issue_Resource_Template.md)
 
 ## How to Contribute
 
