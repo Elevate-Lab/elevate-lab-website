@@ -3,7 +3,7 @@
 *{
     margin :0;
     font-weight: 400;
-    background-color: #0A192F;
+    background-color: #0A192F !important;
 }
 
 body{

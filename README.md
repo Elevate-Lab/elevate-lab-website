@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -71,6 +71,7 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/l3g3ndf4i541"><img src="https://avatars0.githubusercontent.com/u/41689802?v=4" width="100px;" alt=""/><br /><sub><b>Faisal</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=l3g3ndf4i541" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Elemento24"><img src="https://avatars3.githubusercontent.com/u/58396433?v=4" width="100px;" alt=""/><br /><sub><b>Elemento</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Elemento24" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jcombs0929"><img src="https://avatars3.githubusercontent.com/u/25256989?v=4" width="100px;" alt=""/><br /><sub><b>Jeff</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=jcombs0929" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Sumit-Sahu"><img src="https://avatars1.githubusercontent.com/u/54719814?v=4" width="100px;" alt=""/><br /><sub><b>Sumit-Sahu</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Sumit-Sahu" title="Documentation">📖</a></td>
   </tr>
 </table>
 
