@@ -3,7 +3,7 @@
 *{
     margin :0;
     font-weight: 400;
-    background-color: #0A192F;
+    background-color: #0A192F !important;
 }
 
 body{
@@ -187,6 +187,12 @@ a.item-nav:hover{
 /* Team Section End */
 
 /* Project Section  */
+
+@media only screen and (max-width: 768px) {
+    .project-column{
+        margin-top: 80px !important;
+    }
+  }
 .project-card{
     margin: auto;
     box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
@@ -224,7 +230,7 @@ a.item-nav:hover{
 }
 
 .view-project-button{
-    background-color: #3E1A9C;
+    background-color: #3E1A9C !important;
     border-width: 0px;
 }
 
@@ -235,7 +241,6 @@ a.item-nav:hover{
 
 .project-name-container{
     margin-top: 24px;
-    /* padding-left: 24px ; */
     text-align: center;
     width: 100%;
 }
