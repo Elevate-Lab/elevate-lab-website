@@ -3,7 +3,7 @@
 *{
     margin :0;
     font-weight: 400;
-    background-color: #0A192F;
+    background-color: #0A192F !important;
 }
 
 body{
@@ -109,7 +109,7 @@ a.item-nav:hover{
 .bottom-icon {
     background-color: #01122b;
 }  
-/* Cards --> Start*/
+/* Team Section Start*/
 
 .line-text{
     border-top: 1px white solid;
@@ -168,6 +168,7 @@ a.item-nav:hover{
 
 .break{
     width: 80% ;
+    margin: auto;
     border-top: 2px solid #EFEFEF;
     margin-top: 16px;
 }
@@ -183,3 +184,83 @@ a.item-nav:hover{
     font-size: 20px;
     color: #EFEFEF;
 }
+/* Team Section End */
+
+/* Project Section  */
+
+@media only screen and (max-width: 768px) {
+    .project-column{
+        margin-top: 80px !important;
+    }
+  }
+.project-card{
+    margin: auto;
+    box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
+    width: 320px;
+    /* height: 300px; */
+    background-color: #081529;
+    border-radius: 16px;
+    border-right: 5px solid #3E1A9C;
+    font-family: 'Poppins', sans-serif;
+    color: #EFEFEF;
+    margin-bottom: 20px;
+}
+
+.project-card *{
+    background-color: #081529;
+}
+
+.project-info{
+    padding: 16px;
+}
+
+.project-img-container{
+    min-width: 150px;
+    max-width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #3E1A9C;
+    margin: auto;
+    margin-top: -70px;
+}
+
+.project-img-container img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.view-project-button{
+    background-color: #3E1A9C !important;
+    border-width: 0px;
+}
+
+.view-project-button strong{
+    background-color: #3E1A9C !important;
+    color: white;
+}
+
+.project-name-container{
+    margin-top: 24px;
+    text-align: center;
+    width: 100%;
+}
+.project-name{
+    font-weight: bold;
+    font-size: 21px;
+}
+.project-description{
+    padding:10px;
+}
+.social-links-a{
+    color: white;
+    font-size: 24px;
+    padding: 0 10px;
+}
+.author-heading{
+    font-weight: bold;
+    font-size: 14px;
+}
+.author-name{
+    font-size: 14px;
+}
+/* Project Section End*/
