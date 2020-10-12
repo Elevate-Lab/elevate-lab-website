@@ -418,3 +418,138 @@ a.item-nav:focus {
     font-size: 14px;
 }
 /* Project Section End*/
+
+/*Footer For Team And Project Page Starts*/
+
+.site-footer
+{
+    background-color: #081529;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:white;
+}
+.site-footer h6
+{
+    display:flex;
+  color:grey;
+  text-transform:uppercase;
+  margin-top:5px;
+  font-size: xx-large;
+  justify-content:center;
+  padding:10px;
+  letter-spacing:2px;
+}
+.site-footer p.text-justify{
+    padding-left: 20px;
+    margin-right: 5px ;
+    margin-left: 25px;
+    font-size:large;
+}
+.site-footer a
+{
+  color:grey;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-transform: capitalize;
+}
+.footer-links
+{
+  padding-left:15px;
+  list-style:none
+}
+.footer-links li
+{
+  display:flex;
+  justify-content:center;
+  text-transform: capitalize;
+}
+.footer-links a
+{
+  color:white;
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color:#3366cc;
+  text-transform: capitalize;
+}
+.site-footer .social-icons
+{
+  text-align:center;
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:4px;
+  margin-right:8.5px;
+  border-radius:100%;
+  background-color:#21273f;
+}
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.social-icons li
+{
+  display:inline-block;
+  margin-right:55px;
+  margin-left: 75px;
+}
+.social-icons a{
+  background-color:#eceeef;
+  color:white;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:20px;
+  height:20px;
+  text-align:center;
+  border-radius:100%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:white;
+  background-color:#29aafe;
+  box-shadow: #02080f;
+}
+.social-icons a.facebook:hover
+{
+  background-color:#00aced;
+  box-shadow: #02080f;
+}
+.social-icons a.twitter:hover
+{
+  background-color:#00aced;
+  box-shadow: #02080f;
+}
+.social-icons a.linkedin:hover
+{
+  background-color:#007bb6;
+  box-shadow: #02080f;
+}
+.social-icons a.youtube:hover
+{
+  background-color:#007bb6;
+  box-shadow: #02080f;
+}
+.social-icons a.instagram:hover
+{
+  background-color:#007bb6;
+  box-shadow: #02080f;
+}
+.social-icons a.github:hover
+{
+background-color:#007bb6;
+  box-shadow: #02080f;
+}
+
+/*Footer For Team And Project Page Ends*/
