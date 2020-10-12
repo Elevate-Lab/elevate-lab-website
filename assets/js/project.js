@@ -3,7 +3,6 @@ $(document).ready(function(){
       var items = [];
       for (i = 0; i < data["Projects"].length; i++) {
               val=data["Projects"][i];
-              console.log(val,"val 121")
               x="<div class='column project-column'>";
               x="<div class='project-card'>";
               x=x+"<div class='card-content project-info'><div class='project-img-container'><img src = ";
