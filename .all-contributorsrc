@@ -257,6 +257,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "atmanad",
+      "name": "Atman Das",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/53367491?v=4",
+      "profile": "https://www.linkedin.com/in/atmanad/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
