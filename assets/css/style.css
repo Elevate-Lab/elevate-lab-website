@@ -3,7 +3,7 @@
 *{
     margin :0;
     font-weight: 400;
-    background-color: #0A192F;
+    background-color: #0A192F !important;
 }
 
 body{
@@ -20,8 +20,7 @@ body{
     font-size: 1.1rem;
 }
 .navigation-bar{
-    margin: 0% 3%;
-    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 0% 10%;
 }
 .navbar-item img{
     max-height: none;
@@ -95,36 +94,21 @@ a.item-nav:hover{
     line-height: 22px;
 }
 /* Banner Section End */
+
 .new {
     background-color: #01122b;
     font-size: 30px;
     color: #D7D7D7;
-    padding: 15px;
+    padding: 0px 15px 15px 15px;
 }
 
 .new p {
-    padding: 5px 0px 0px 0px;
-}
-
-footer .column{
     padding: 15px 0px 0px 0px;
-    background-color: #01122b;
 }
 
 .bottom-icon {
     background-color: #01122b;
-}
-
-footer a:hover{
-    color: #4C8BF5;
-}
-
-.about-text{
-    background-color: #01122b;
-    font-size: 20px;
-    color: #D7D7D7;
-    /* padding: 15px; */
-}
+}  
 /* Team Section Start*/
 
 .line-text{
