@@ -3,7 +3,7 @@
 *{
     margin :0;
     font-weight: 400;
-    background-color: #0A192F !important;
+    background-color: #0A192F;
 }
 
 body{
@@ -41,6 +41,9 @@ a.item-nav:hover{
     background-color:inherit;
     color: #371AA1;
     font-weight: 600;
+}
+a.item-nav:focus {
+    background-color: #0A192F;
 }
 .navbar-burger{
     height: inherit;
