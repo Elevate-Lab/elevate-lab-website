@@ -78,6 +78,7 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/baptistebrand"><img src="https://avatars3.githubusercontent.com/u/72191498?v=4" width="100px;" alt=""/><br /><sub><b>Baptiste Brand</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=baptistebrand" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/sanskar-p"><img src="https://avatars0.githubusercontent.com/u/54014518?v=4" width="100px;" alt=""/><br /><sub><b>Sanskar Patro</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=sanskar-p" title="Documentation">📖</a></td>
   </tr>
 </table>
 
