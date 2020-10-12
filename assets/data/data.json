@@ -16,6 +16,10 @@
         "firstname":"Tejas","img":"https://avatars1.githubusercontent.com/u/58390399?s=460&u=0b6ce6c0c3bea8be09c4cdd43dd8c603232382da&v=4","lastname":"Agrawal","github":"https://github.com/cyber-venom003","linkedin":"https://www.linkedin.com/in/tejas-agrawal-1605301a5","twitter":"https://twitter.com/TejasAg35687912?s=08"
     },{
       "firstname":"Priyansh","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Singh","github":"https://github.com/Priyansh-09","linkedin":"https://linkedin.com/in/priyansh-singh-29209b192/","twitter":"https://twitter.com/_priyansh_09"
+    
+    },{
+      "firstname":"Baptiste","img":"https://avatars3.githubusercontent.com/u/72191498?s=400&u=a5f3568803fe6eac4bddec3daff9b86062eed982&v=4","lastname":"Brand","github":"https://github.com/baptistebrand","linkedin":"https://linkedin.com","twitter":"https://twitter.com/"
+    
     },{
 
        "firstname":"Harshdeep Singh","img":"https://avatars0.githubusercontent.com/u/58396239?s=460&u=b1583cfccf42ab99d3810fdb8ca037260bbfaffd&v=4","lastname":"Pruthi","github":"https://github.com/2802harsh","linkedin":"https://www.linkedin.com/in/harshdeep-singh-pruthi-25678b191/","twitter":"https://twitter.com/HarshdeepPruthi"
@@ -61,5 +65,6 @@
     },
       {
         "firstname": "Manish","img": "https://avatars2.githubusercontent.com/kumarmanish03","lastname": "Kumar","github": "https://github.com/kumarmanish03","linkedin":"https://www.linkedin.com/in/kumarmanish03/","twitter":"https://twitter.com/MANISHK19007541"
+
     }]
 }
