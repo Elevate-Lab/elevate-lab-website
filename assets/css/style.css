@@ -25,6 +25,44 @@ body{
 .navbar-item img{
     max-height: none;
 }
+.navbar-item img:hover{
+     cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+}
+.navbar-item img:focus{
+         cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:0 4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+.navbar-item img:active{
+      cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:0 2px #02080f;
+    top:2px;
+    border: radius 3px;
+}
 .logo-img{
     height: 65px;
     margin-right: 5%;
@@ -34,13 +72,85 @@ body{
     font-weight: bold;
     color: #D7D7D7;;
 }
+.nav-title:hover{
+         cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+}
+.nav-title:focus{
+       cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:0 4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+.nav-title:active{
+     cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:0 2px #02080f;
+    top:2px;
+    border: radius 3px;
+}
 a.item-nav{
     color: #D7D7D7;
 }
 a.item-nav:hover{
-    background-color:inherit;
-    color: #371AA1;
     font-weight: 600;
+    cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+}
+a.item-nav:focus{
+ cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:1px  4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+a.item-nav:active{
+     cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:1px 2px #02080f;
+    top:2px;
+    border: radius 3px;
 }
 .navbar-burger{
     height: inherit;
@@ -108,7 +218,45 @@ a.item-nav:hover{
 
 .bottom-icon {
     background-color: #01122b;
-}  
+} 
+.bottom-icon:hover{
+  cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+} 
+.bottom-icon:focus{
+      cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:1px  4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+.bottom-icon:active{
+     cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:1px 2px #02080f;
+    top:2px;
+    border: radius 3px;
+}
 /* Team Section Start*/
 
 .line-text{
