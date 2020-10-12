@@ -46,8 +46,12 @@
         "firstname": "Vishesh","img": "https://avatars1.githubusercontent.com/u/58396433?v=4","lastname": "Mittal","github": "https://github.com/Elemento24","linkedin":"https://www.linkedin.com/in/vishesh-mittal-9551a4199/","twitter":"https://twitter.com/Vishesh30493930"
 
     }, {
+        "firstname": "Sanskar","img": "https://avatars1.githubusercontent.com/u/54014518?s=460&v=4","lastname": "Patro","github": "https://github.com/sanskar-p","linkedin":"https://www.linkedin.com/in/sanskar-patro/","twitter":"https://twitter.com/"
+    
+    }, {
         "firstname": "Shivam","img": "https://avatars2.githubusercontent.com/u/58395557?v=4","lastname": "Agrahari","github": "https://github.com/geeks5551","linkedin":"https://www.linkedin.com/in/shivam-agrahari-a044aa19b/","twitter":"https://twitter.com/ShivamA99223730"
-    },   {
+    
+    }, {
         "firstname": "Sarthak","img": "https://avatars1.githubusercontent.com/u/58396189?s=400&u=cf80cad2c90ba36a7794aff68529c2c78b9b9ac2&v=4","lastname": "Maheshwari","github": "https://github.com/sarthakm21","linkedin":"https://www.linkedin.com/in/sarthak-maheshwari-314b631a2/","twitter":"https://twitter.com/sarthakm21"
 
     },
@@ -57,6 +61,5 @@
     },
       {
         "firstname": "Manish","img": "https://avatars2.githubusercontent.com/kumarmanish03","lastname": "Kumar","github": "https://github.com/kumarmanish03","linkedin":"https://www.linkedin.com/in/kumarmanish03/","twitter":"https://twitter.com/MANISHK19007541"
-
     }]
 }
