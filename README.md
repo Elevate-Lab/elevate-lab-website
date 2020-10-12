@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -74,6 +74,7 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/Sumit-Sahu"><img src="https://avatars1.githubusercontent.com/u/54719814?v=4" width="100px;" alt=""/><br /><sub><b>Sumit-Sahu</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=Sumit-Sahu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/sarthakm21"><img src="https://avatars2.githubusercontent.com/u/58396189?v=4" width="100px;" alt=""/><br /><sub><b>Sarthak Maheshwari</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=sarthakm21" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kumarmanish03"><img src="https://avatars0.githubusercontent.com/u/41566808?v=4" width="100px;" alt=""/><br /><sub><b>Manish Kumar</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=kumarmanish03" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/crazy548"><img src="https://avatars0.githubusercontent.com/u/58394893?v=4" width="100px;" alt=""/><br /><sub><b>crazy548</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=crazy548" title="Documentation">📖</a></td>
   </tr>
 </table>
 
