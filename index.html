@@ -32,14 +32,14 @@
         <link href="http://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CRacing+Sans+One" rel="stylesheet" type="text/css">
         <!-- google fonts end -->
 </head>
-<body>
+<body class="has-navbar-fixed-top">
     <!-- Navigation Bar -->
     <div class="nav-container">
-      <nav class="navbar navigation-bar" role="navigation" aria-label="main navigation">
+      <nav class="navbar navigation-bar is-fixed-top" role="navigation" aria-label="main navigation">
           <div class="navbar-brand">
-            <a class="navbar-item" href="#">
+            <a class="navbar-item" href="/index.html">
               <img src="assets/images/Logo/Logo_Vector_Only.svg" class="logo-img" alt="Elevate Lab Logo">
-              <h1 class="nav-title navbar-item">Elevate Lab</h1>
+              <a href="/index.html"><h1 class="nav-title navbar-item">Elevate Lab</h1></a>
             </a>
             <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
               <span></span>
@@ -50,13 +50,13 @@
 
           <div id="navbarExampleTransparentExample" class="navbar-menu">
             <div class="navbar-end">
-              <a class="item-nav navbar-item" href="#">
+              <a class="item-nav navbar-item" href="/index.html">
                 Home
               </a>
-              <a class="item-nav navbar-item" href="./assets/html/team.html">
+              <a class="item-nav navbar-item" href="assets/html/team.html">
                 Team
               </a>
-              <a class="item-nav navbar-item" href="./assets/html/project.html">
+              <a class="item-nav navbar-item" href="assets/html/project.html">
                 Projects
               </a>
               <a class="item-nav navbar-item" href="#">
@@ -130,25 +130,32 @@
           </div>
         </div>
       </div>
-
     </div>
     <!-- Banner Section End -->
 
 
     <!--Footer Start-->
     <footer class="footer new">
-      <div class="new content has-text-centered">
-        <p class="new">Follow Us:</p>
-        <div class="new">
-          <a class="new" href=""><i class="bottom-icon fab fa-instagram"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-linkedin-in"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-twitter"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-facebook"></i></a>
-          <a class="new" href="https://github.com/Elevate-Lab"><i class="bottom-icon fab fa-github"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-youtube"></i></a>
+      <div class="columns">
+        <div class="column">
+          <div class="new content about has-text-centered">
+            <p class="new">About Us:</p>
+            <p class="about-text">Elevate Labs is here to make a change. We believe in contributing towards the community through technology. Anyone and everyone is welcome here for contributing and to learn Open Source.</p>
+          </div>
         </div>
-
-      </div>
+        <div class="column">
+          <div class="new content social has-text-centered">
+            <p class="new">Follow Us:</p>
+            <div class="new">
+              <a class="new" href=""><i class="bottom-icon fab fa-instagram"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-linkedin-in"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-twitter"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-facebook"></i></a>
+              <a class="new" href="https://github.com/Elevate-Lab"><i class="bottom-icon fab fa-github"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-youtube"></i></a>
+            </div>
+          </div>
+        </div>
     </footer>
     <!--Footer End-->
 

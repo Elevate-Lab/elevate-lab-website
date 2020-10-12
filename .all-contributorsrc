@@ -230,6 +230,23 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Priyansh-09",
+      "name": "Priyansh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/55129015?s=400&u=72280ec1516e0729842816c0c2531392da1d75e3&v=4",
+      "profile": "https://github.com/Priyansh-09",
+      "contributions": [
+        "code"
+      ]
+    },{
+      "login": "sarthakm21",
+      "name": "Sarthak Maheshwari",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58396189?v=4",
+      "profile": "https://github.com/sarthakm21",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
