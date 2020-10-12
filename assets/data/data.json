@@ -23,48 +23,33 @@
     },{
         "firstname":"Hardik","img":"https://avatars0.githubusercontent.com/u/58038410?s=460&u=94a87f71aaef953046b2155d58e88c3de0f81480&v=4.png","lastname":"Bajaj","github":"https://github.com/hardikbajaj","linkedin":"www.linkedin.com/in/hardikbajaj","twitter":"https://twitter.com/Soultitude_"
     },{
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "firstname":"Ayush","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Baranwal","github":"https://github.com/Ayush-Baranwal","linkedin":"https://www.linkedin.com/in/ayush-baranwal-5499a5190/","twitter":"https://twitter.com/"   
-    }, {
-        "firstname": "Aaryan","img": "https://avatars2.githubusercontent.com/u/57333555?s=460&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4","lastname": "Bhardwaj","github": "https://github.com/uglyprincess","linkedin":"https://www.linkedin.com/in/aaryan-bhardwaj-2b3a4b19b/","twitter":"https://twitter.com/LoquaciousTurt1"
-=======
-        "firstname":"Ayush","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Baranwal","github":"https://github.com/Ayush-Baranwal","linkedin":"https://www.linkedin.com/in/ayush-baranwal-5499a5190/","twitter":"https://twitter.com/"
-=======
-        "firstname":"Ayush","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Baranwal","github":"https://github.com/Ayush-Baranwal","linkedin":"https://www.linkedin.com/in/ayush-baranwal-5499a5190/","twitter":"https://twitter.com/"   
-    },{
-        "firstname":"Adarsh","img":"https://avatars1.githubusercontent.com/u/64785626?s=460&u=09aa5e8bbc03049637deab88e558093e01e924b8&v=4","lastname":"Tripathi","github":"https://github.com/rush-tea","linkedin":"https://www.linkedin.com/in/adarsh-tripathi-0a5a24191/","twitter":"https://twitter.com/tripathi3adarsh"   
->>>>>>> upstream/main
-=======
         "firstname":"Anjali","img":"https://avatars.githubusercontent.com/IC1101Virgo","lastname":"Chaturvedi","github":"https://github.com/IC1101Virgo","linkedin":"https://www.linkedin.com/in/anjali-chaturvedi-b081a5199/","twitter":"https://twitter.com/Nirvana_Nvrmind"   
     },{
         "firstname":"Ayush","img":"https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png","lastname":"Baranwal","github":"https://github.com/Ayush-Baranwal","linkedin":"https://www.linkedin.com/in/ayush-baranwal-5499a5190/","twitter":"https://twitter.com/"
->>>>>>> upstream/main
     },{
         "firstname":"Adarsh","img":"https://avatars1.githubusercontent.com/u/64785626?s=460&u=09aa5e8bbc03049637deab88e558093e01e924b8&v=4","lastname":"Tripathi","github":"https://github.com/rush-tea","linkedin":"https://www.linkedin.com/in/adarsh-tripathi-0a5a24191/","twitter":"https://twitter.com/tripathi3adarsh"
     }, {
         "firstname": "Aaryan","img": "https://avatars2.githubusercontent.com/u/57333555?s=460&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4","lastname": "Bhardwaj","github": "https://github.com/uglyprincess","linkedin":"https://www.linkedin.com/in/aaryan-bhardwaj-2b3a4b19b/","twitter":"https://twitter.com/LoquaciousTurt1"
     },{
         "firstname": "Syauqy","img": "https://avatars2.githubusercontent.com/u/3627108?s=460&u=607024d478c2ef68afda62ba5a5bc83f23f01dfc&v=4","lastname": "Aziz","github": "https://github.com/syauqy","linkedin":"https://www.linkedin.com/in/syauqyaziz/","twitter":"https://twitter.com/syauqy"
+
+    },{
+        "firstname": "Shreesh","img": "https://avatars2.githubusercontent.com/u/6941016?s=460&u=6d9c811dbbcc9a4353ccd75ab1b36388edb687f3&v=4","lastname": "Swaraj","github": "https://github.com/Shreesh90","linkedin":"https://www.linkedin.com/in/shreeswa/","twitter":"https://twitter.com/ShreeshSwaraj"
+
     }, {
 
         "firstname": "Jeff", "img": "https://avatars0.githubusercontent.com/u/25256989?s=400&u=13f9b6e4bb5db8d548eb29f3326885fe4ef906a9&v=4", "lastname": "Combs", "github": "https://github.com/jcombs0929", "linkedin": "https://www.linkedin.com/", "twitter": "https/twitter.com/"
     }, {
         "firstname": "Vishesh","img": "https://avatars1.githubusercontent.com/u/58396433?v=4","lastname": "Mittal","github": "https://github.com/Elemento24","linkedin":"https://www.linkedin.com/in/vishesh-mittal-9551a4199/","twitter":"https://twitter.com/Vishesh30493930"
-<<<<<<< HEAD
-<<<<<<< HEAD
-
->>>>>>> upstream/main
-=======
-    }, {
-        "firstname": "Sarthak","img": "https://avatars1.githubusercontent.com/u/58396189?s=400&u=cf80cad2c90ba36a7794aff68529c2c78b9b9ac2&v=4","lastname": "Maheshwari","github": "https://github.com/sarthakm21","linkedin":"https://www.linkedin.com/in/sarthak-maheshwari-314b631a2/","twitter":"https://twitter.com/sarthakm21"
->>>>>>> upstream/main
-=======
 
     }, {
+        "firstname": "Shivam","img": "https://avatars2.githubusercontent.com/u/58395557?v=4","lastname": "Agrahari","github": "https://github.com/geeks5551","linkedin":"https://www.linkedin.com/in/shivam-agrahari-a044aa19b/","twitter":"https://twitter.com/ShivamA99223730"
+    },   {
         "firstname": "Sarthak","img": "https://avatars1.githubusercontent.com/u/58396189?s=400&u=cf80cad2c90ba36a7794aff68529c2c78b9b9ac2&v=4","lastname": "Maheshwari","github": "https://github.com/sarthakm21","linkedin":"https://www.linkedin.com/in/sarthak-maheshwari-314b631a2/","twitter":"https://twitter.com/sarthakm21"
 
->>>>>>> upstream/main
+    },
+    {
+        "firstname": "Atman","img": "https://avatars2.githubusercontent.com/u/53367491?v=4","lastname": "Das","github": "https://github.com/atmanad","linkedin":"https://www.linkedin.com/in/atmanad/","twitter":"https://twitter.com/__gh00st"
+
     }]
 }
