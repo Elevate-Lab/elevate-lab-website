@@ -458,16 +458,39 @@ a.item-nav:focus {
     max-height: 200px;
     border-radius: 50%;
 }
-.event-head2{
-    font-size: 20px;
-    font-weight: bold;
-    color: white;
-}
 .event-img-container img{
     width: 100%;
     height: 100%;
     border-top-left-radius: 75px;
     border: 3px solid #C4C4C4;
+}
+.event-head2{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.event-img-container-2{
+    min-width: 25%;
+    max-width: 25%;
+    max-height: 150px;
+    border-radius: 50%;
+}
+.event-img-container-2 img{
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 30px;
+    border: 3px solid #C4C4C4;
+}
+@media only screen and (max-width: 768px) {
+    .event-img-container-2{
+        max-height: 150px;
+    }
+    .event-img-container{
+        max-height: 150px;
+    }
+    .event-img-container img{
+        border-top-left-radius: 30px;
+    }
 }
 .event-subhead{
     color: white;
