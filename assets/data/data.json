@@ -39,10 +39,6 @@
         "firstname": "Aaryan","img": "https://avatars2.githubusercontent.com/u/57333555?s=460&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4","lastname": "Bhardwaj","github": "https://github.com/uglyprincess","linkedin":"https://www.linkedin.com/in/aaryan-bhardwaj-2b3a4b19b/","twitter":"https://twitter.com/LoquaciousTurt1"
     },{
         "firstname": "Syauqy","img": "https://avatars2.githubusercontent.com/u/3627108?s=460&u=607024d478c2ef68afda62ba5a5bc83f23f01dfc&v=4","lastname": "Aziz","github": "https://github.com/syauqy","linkedin":"https://www.linkedin.com/in/syauqyaziz/","twitter":"https://twitter.com/syauqy"
-<<<<<<< HEAD
-    }, {
-        "firstname": "Vishesh","img": "https://avatars1.githubusercontent.com/u/58396433?v=4","lastname": "Mittal","github": "https://github.com/Elemento24","linkedin":"https://www.linkedin.com/in/vishesh-mittal-9551a4199/","twitter":"https://twitter.com/Vishesh30493930"
-=======
 
     },{
         "firstname": "Shreesh","img": "https://avatars2.githubusercontent.com/u/6941016?s=460&u=6d9c811dbbcc9a4353ccd75ab1b36388edb687f3&v=4","lastname": "Swaraj","github": "https://github.com/Shreesh90","linkedin":"https://www.linkedin.com/in/shreeswa/","twitter":"https://twitter.com/ShreeshSwaraj"
@@ -70,6 +66,5 @@
       {
         "firstname": "Manish","img": "https://avatars2.githubusercontent.com/kumarmanish03","lastname": "Kumar","github": "https://github.com/kumarmanish03","linkedin":"https://www.linkedin.com/in/kumarmanish03/","twitter":"https://twitter.com/MANISHK19007541"
 
->>>>>>> upstream/main
     }]
 }
