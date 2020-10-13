@@ -3,7 +3,7 @@
 *{
     margin :0;
     font-weight: 400;
-    background-color: #0A192F !important;
+    background-color: #0A192F;
 }
 
 body{
@@ -20,10 +20,49 @@ body{
     font-size: 1.1rem;
 }
 .navigation-bar{
-    margin: 0% 10%;
+    margin: 0% 3%;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .navbar-item img{
     max-height: none;
+}
+.navbar-end .navbar-item img:hover{
+     cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+}
+.navbar-end .navbar-item img:focus{
+    cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:0 4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+.navbar-end .navbar-item img:active{
+      cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:0 2px #02080f;
+    top:2px;
+    border: radius 3px;
 }
 .logo-img{
     height: 65px;
@@ -34,13 +73,90 @@ body{
     font-weight: bold;
     color: #D7D7D7;;
 }
+
+/* .nav-title:hover{
+    cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+}
+.nav-title:focus{
+    cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:0 4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+.nav-title:active{
+    cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:0 2px #02080f;
+    top:2px;
+    border: radius 3px;
+} */
+
 a.item-nav{
     color: #D7D7D7;
 }
 a.item-nav:hover{
-    background-color:inherit;
-    color: #371AA1;
     font-weight: 600;
+    cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+}
+a.item-nav:focus{
+ cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:1px  4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+a.item-nav:active{
+     cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:1px 2px #02080f;
+    top:2px;
+    border: radius 3px;
+}
+a.item-nav:focus {
+    background-color: #0A192F;
 }
 .navbar-burger{
     height: inherit;
@@ -108,7 +224,45 @@ a.item-nav:hover{
 
 .bottom-icon {
     background-color: #01122b;
-}  
+} 
+.bottom-icon:hover{
+  cursor:pointer;
+    color: #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color:#0e0e29;
+    box-shadow:1px  6px #02080f;
+    top:2px;
+    border-radius:5px;
+    border-left: #02080f;
+    border-right: #02080f;
+} 
+.bottom-icon:focus{
+      cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29 ;
+    box-shadow:1px  4px #02080f;
+    top:2px;
+    border: radius 10px;
+}
+.bottom-icon:active{
+     cursor:pointer;
+    color:  #5d42bd;
+    font-weight: 600;
+    margin:10px auto;
+    padding:10px auto;
+    transition:0.4s ease-out;
+    background-color: #0e0e29;
+    box-shadow:1px 2px #02080f;
+    top:2px;
+    border: radius 3px;
+}
 /* Team Section Start*/
 
 .line-text{
