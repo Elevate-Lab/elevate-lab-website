@@ -265,6 +265,16 @@ a.item-nav:focus {
 }
 /* Team Section Start*/
 
+.team-heading{
+	margin-top: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+	.team-heading{
+		margin-top: 40px;
+	}
+}
+
 .line-text{
     border-top: 1px white solid;
     text-align: center;
@@ -342,11 +352,19 @@ a.item-nav:focus {
 
 /* Project Section  */
 
+.project-heading{
+	margin-top: 20px;
+}
+
 @media only screen and (max-width: 768px) {
+	.project-heading{
+		margin-top: 40px;
+	}
     .project-column{
-        margin-top: 80px !important;
+		margin-top: 80px !important;
     }
-  }
+}
+
 .project-card{
     margin: auto;
     box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
