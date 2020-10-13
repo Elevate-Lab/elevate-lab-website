@@ -170,6 +170,7 @@ a.item-nav:focus {
 /* Banner Section  */
 .banner-section{
     padding: 70px 10px 30px 10px;
+
 }
 .heading{
     font-size: 30px;  
@@ -211,15 +212,26 @@ a.item-nav:focus {
 }
 /* Banner Section End */
 
+/*Footer section starts*/
+
 .new {
-    background-color: #01122b;
+    background-color:#01122b;
     font-size: 30px;
     color: #D7D7D7;
-    padding: 0px 15px 15px 15px;
+    padding: 15px;
+}
+.new p {
+    padding: 5px 0px 0px 0px;
 }
 
-.new p {
-    padding: 15px 0px 0px 0px;
+footer .column{
+    padding:15px 0px 0px 0px;
+    background-color: #01122b;
+}
+.about-text{
+    background-color: #01122b;
+    font-size: 20px;
+    color: #D7D7D7;
 }
 
 .bottom-icon {
@@ -263,91 +275,28 @@ a.item-nav:focus {
     top:2px;
     border: radius 3px;
 }
-/* Team Section Start*/
+/*Footer Section Ends*/
 
+/* Team Section Start*/
 .team-heading{
 	margin-top: 20px;
 }
-
 @media only screen and (max-width: 768px) {
 	.team-heading{
 		margin-top: 40px;
 	}
 }
-
 .line-text{
     border-top: 1px white solid;
     text-align: center;
+    margin:55px auto;
 }
 .text-with-line{
     transform: translateY(-33px);
-    background-color: #0a192f;
     padding: 1rem;
     display: inline-block;
 }
-.card{
-    margin: auto;
-    box-shadow: -2px 1px 4px rgba(0,0,0,0.2), -3px 2px 12px rgba(0,0,0,0.1);
-    width: 280px;
-    height: 240px;
-    background-color: #081529;
-    display: flex;
-    flex-direction: column;
-    border-radius: 16px;
-    border-top-left-radius: 75px;
-    border-right: 5px solid #3E1A9C;
-    font-family: 'Poppins', sans-serif;
-    color: #EFEFEF;
-    margin-bottom: 20px;
-}
 
-.card *{
-    background-color: #081529;
-}
-
-.info{
-    display: flex;
-    flex-direction: row;
-    padding: 16px;
-}
-
-.img-container{
-    min-width: 110px;
-    max-width: 110px;
-    height: 110px;
-    border-radius: 50%;
-    border: 3px solid #EFEFEF;
-}
-
-.img-container img{
-    width: 100%;
-    border-radius: 50%;
-}
-
-.name-container{
-    margin-top: 24px;
-    padding-left: 24px ;
-    width: 100%;
-}
-
-.break{
-    width: 80% ;
-    margin: auto;
-    border-top: 2px solid #EFEFEF;
-    margin-top: 16px;
-}
-
-.social-links{
-    padding: 16px 48px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.social-links a{
-    font-size: 20px;
-    color: #EFEFEF;
-}
 /* Team Section End */
 
 /* Project Section  */
