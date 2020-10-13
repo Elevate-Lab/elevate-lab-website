@@ -14,12 +14,23 @@ window.matchMedia('(prefers-color-scheme: dark)').addListener(function(e) {
   });
 }
 console.log(mode);
+
+var uri = document.documentURI;
+var docname = (uri.substring(uri.length-10,uri.length-5)); // check if page is index.html
+
 var head = document.getElementsByTagName('HEAD')[0];  
 var link = document.createElement('link'); 
 link.rel = 'stylesheet';  
 link.type = 'text/css'; 
 if(link!==''){
-    link.href = '/assets/css/'+mode+'.css'; 
+    if(docname==="index")                       // check if the doc is index.html
+    {
+        link.href = 'assets/css/'+mode+'.css'; 
+    }
+    else
+    {
+        link.href = '../css/'+mode+'.css';
+    }
     head.appendChild(link);
 }
 
@@ -32,11 +43,18 @@ if(mode === 'dark')
 toggleButton.addEventListener("click", function(){
     console.log("clicked");
     if(mode === 'dark'){
-        link.href = '/assets/css/light.css';
+        if(docname === "index"){                // check if the doc is index.html
+        link.href = 'assets/css/light.css'; 
+        }
+        else{
+            link.href='../css/light.css';
+        }
         mode = 'light';
     }
     else{
-        link.href = '/assets/css/dark.css';
+        if(docname === "index"){
+            link.href = 'assets/css/dark.css'; }
+        else{link.href='../css/dark.css';}
         mode = 'dark';
     }
     global.localStorage.setItem("mode",mode);
