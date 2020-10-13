@@ -9,19 +9,20 @@ Contributors can share websites, youtube videos, courses which helped them build
 
       <!-- ________ Contributor's suggest START ________  -->
       
-         Your Name:
+         Your Name:Devender kumar
 
-         Your Interests and Hobbies:
+         Your Interests and Hobbies:paying football,watching web series and learning new things:
               
          Useful Resources:
                    
-                       * Resource 1:
-
-                       
-                       * Resource 2:
+                     * An Awesome Resource to learn Git: https://git-scm.com/book/en/v2/
 
 
-                       * Resource 3:   
+                     * Building First Android App: https://developer.android.com/training/basics/firstapp
+
+
+                     *  Python for beginners: https://developers.google.com/edu/python/
+
                        
          
 
