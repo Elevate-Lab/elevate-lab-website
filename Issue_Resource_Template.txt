@@ -124,6 +124,26 @@ Contributors can share websites, youtube videos, courses which helped them build
          
 
        <!-- ________ Contributor's suggest END ________  -->
+       
+        <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Manish Kumar
+
+         Your Interests and Hobbies: Playing Cricket, Learning new skills, Watching Movies ;)
+              
+         Useful Resources:
+                   
+                       * An Awesome Website to learn and Practice ReactJS along: https://scrimba.com/learn/learnreact
+
+                       
+                       * A very Popular Coursera course for Learning Machine Learning:  https://www.coursera.org/learn/machine-learning
+
+
+                       *  Competitive Coding Questions By difficulty level: https://www.codechef.com/problems/easy/
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
 
         
         
