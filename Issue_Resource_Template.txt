@@ -49,10 +49,10 @@ Contributors can share websites, youtube videos, courses which helped them build
          Useful Resources:heart_eyes::heart_eyes::
                    
                        * An Awesome Resource to learn Git: https://git-scm.com/book/en/v2/
-
                        
+		       
                        * Building First Android App: https://developer.android.com/training/basics/firstapp
-
+		       
 
                        *  Python for beginners: https://developers.google.com/edu/python/
                        
