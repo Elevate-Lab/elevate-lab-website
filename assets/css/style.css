@@ -414,4 +414,28 @@ a.item-nav:focus {
 .author-name{
     font-size: 14px;
 }
+
+.field {
+    padding: 0 10px;
+}
+
+.form {
+    text-align: center;
+    margin: 20px;
+}
+
+.title {
+    text-align: unset;
+    color: rgb(105, 105, 105);
+}
+
+.column {
+    margin: auto;
+}
+
+.label {
+    text-align: left;
+    color: rgb(83, 83, 83);
+}
+
 /* Project Section End*/
