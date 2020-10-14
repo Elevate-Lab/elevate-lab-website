@@ -1,0 +1,38 @@
+
+    body{
+        background-color: #f2f2f0 ;
+        color: #0A192F;
+    }
+    * {
+        background-color: #f2f2f0 ;
+        color: #0A192F;
+    }
+    .nav-title{
+        color: #0A192F;
+    }
+    a.item-nav{
+        color: #0A192F;
+    }
+    .line-text{
+        border-color: black;
+    }
+    .text-with-line{
+        background-color: #f2f2f0 ;
+    }
+    .card, .project-card{
+        background-color: white;
+    }
+    .card *, .project-card *{
+        background-color: white;
+    }
+    .contactus-container, .contactus-container *{
+        background-color: white;
+        color: #0A192F;
+    }
+    footer, .about-text, footer .column, .new, .bottom-icon{
+        background-color: white;
+        color: #0A192F;
+    }
+    .title, .label{
+        color: #0A192F;
+    }

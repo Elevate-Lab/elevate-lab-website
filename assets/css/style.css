@@ -114,7 +114,7 @@ body{
 } */
 
 a.item-nav{
-    color: #D7D7D7;
+    /* color: #D7D7D7; */
 }
 a.item-nav:hover{
     font-weight: 600;
@@ -167,19 +167,59 @@ a.item-nav:focus {
 
 /* Navigation Bar End*/
 
+/* Toggle Section */
+.toggle-mode{
+    margin: 2% 0 0 80%;
+}
+.switch { 
+    position : relative ;
+    margin-top: 2%;
+    display : inline-block;
+    width : 40px;
+    height : 20px;
+    background-color: rgb(172, 169, 169);
+    border-radius: 20px;
+  }
+  .switch::after {
+    content: '';
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: white;
+    top: 1px; // TO GIVE AN EFFECT OF CIRCLE INSIDE SWITCH.
+    left: 1px;
+    transition: all 0.3s;
+  }
+  .checkbox:checked + .switch::after {
+    left : 20px; 
+  }
+  .checkbox:checked + .switch {
+    background-color: #7983ff;
+  }
+  .checkbox { 
+    display : none;
+ }
+ .mode-text{
+     position: relative;
+     margin-left: 10px;
+     font-size: 1.5rem;;
+ }
+/* Toggle Section End */
+
 /* Banner Section  */
 .banner-section{
     padding: 70px 10px 30px 10px;
 }
 .heading{
     font-size: 30px;  
-    color: #D7D7D7;  
+    /* color: #D7D7D7;   */
     font-weight: 700;
 }
 .subheading{
     line-height: 29px;
     text-align: left;
-    color: #D7D7D7;
+    /* color: #D7D7D7; */
     font-size: 1.25rem;
 }
 .image-half{
@@ -199,13 +239,13 @@ a.item-nav:focus {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .feature-heading{
-    color: #D7D7D7;
+    /* color: #D7D7D7; */
     font-size: 16px;
     margin-bottom: 10px;
     font-weight: 700;
 }
 .feature-subheading{
-    color: #D7D7D7;
+    /* color: #D7D7D7; */
     font-size: 14px;
     line-height: 22px;
 }
@@ -215,15 +255,24 @@ a.item-nav:focus {
     background-color: #01122b;
     font-size: 30px;
     color: #D7D7D7;
-    padding: 0px 15px 15px 15px;
+    padding: 15px;
 }
 
 .new p {
-    padding: 15px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+}
+footer .column{
+    padding:15px 0px 0px 0px;
+    background-color: #01122b;
+}
+.about-text{
+    background-color: #01122b;
+    font-size: 20px;
+    color: #D7D7D7;
 }
 
 .bottom-icon {
-    background-color: #01122b;
+    /* background-color: #01122b; */
 } 
 .bottom-icon:hover{
   cursor:pointer;
@@ -232,7 +281,7 @@ a.item-nav:focus {
     margin:10px auto;
     padding:10px auto;
     transition:0.4s ease-out;
-    background-color:#0e0e29;
+    /* background-color:#0e0e29; */
     box-shadow:1px  6px #02080f;
     top:2px;
     border-radius:5px;
@@ -246,7 +295,7 @@ a.item-nav:focus {
     margin:10px auto;
     padding:10px auto;
     transition:0.4s ease-out;
-    background-color: #0e0e29 ;
+    /* background-color: #0e0e29 ; */
     box-shadow:1px  4px #02080f;
     top:2px;
     border: radius 10px;
@@ -278,6 +327,7 @@ a.item-nav:focus {
 .line-text{
     border-top: 1px white solid;
     text-align: center;
+    margin: 55px auto;
 }
 .text-with-line{
     transform: translateY(-33px);
@@ -456,19 +506,16 @@ a.item-nav:focus {
     padding: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
     0 6px 20px 0 rgba(0, 0, 0,0.19);
-    background-color: #0A192F
 }
 .contactus-container .field h4{
-    color: #D7D7D7;
     font-size: 200%;
     text-align: center;
     font-weight: bolder;
 }
 .contactus-container .field .label{
-    color: rgb(241, 241, 241);
     font-size: 120%;
 }
-.contactus-container .field input{
+.contactus-container .field input, .field textarea{
     background-color: #EFEFEF;
 }
 
