@@ -18,7 +18,7 @@ $(document).ready(function(){
               x=x+"</div>";
 
               i=i+1;
-              if(i+1<data["Projects"].length){
+              if(i+1<=data["Projects"].length){
                   val=data["Projects"][i];
                   x=x+"<div class='column project-column'>";
                   x=x+"<div class='project-card'>";
@@ -33,7 +33,7 @@ $(document).ready(function(){
                   x=x+"</div>";
               }
               i=i+1;
-              if(i+1<data["Projects"].length){
+              if(i+1<=data["Projects"].length){
                   val=data["Projects"][i];
                   x=x+"<div class='column project-column'>";
                   x=x+"<div class='project-card'>";
