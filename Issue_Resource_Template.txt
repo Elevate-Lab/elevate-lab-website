@@ -144,6 +144,27 @@ Contributors can share websites, youtube videos, courses which helped them build
          
 
         <!-- ________ Contributor's suggest END ________  -->
+	
+	<!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Kundan Bhasin
+
+         Your Interests and Hobbies: Watching Animated Movies, Learning Mathematics ;)
+              
+         Useful Resources:
+                   
+                       * Awesome Youtube Channel for learning Web Dev: https://www.youtube.com/user/TechGuyWeb
+
+                       
+                       * Free Resource for all programming:  https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+
+
+                       * Complete Reference for Basic Web Dev: https://developer.mozilla.org/
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
+
 
         
         
