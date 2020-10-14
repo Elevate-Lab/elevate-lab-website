@@ -25,6 +25,16 @@
       rel="stylesheet"
       type="text/css"
     />
+    <link 
+      rel="stylesheet"
+      href="assets/css/dark.css" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <link
+     rel="stylesheet" 
+     href="assets/css/light.css" 
+     media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+    />
 
     <!-- style end -->
 
@@ -94,6 +104,14 @@
       </nav>
     </div>
     <!-- Navigation Bar End -->
+    
+    <!-- Toggle Button -->
+    <div class="toggle-mode">
+    <input type="checkbox" id="toggle" class="checkbox" />
+    <label for="toggle" class="switch"></label>
+    <span class="mode-text">Dark Mode</span>
+    </div>
+    <!-- Toggle Button End -->
 
     <!-- Banner Section -->
     <div class="container banner-section">
@@ -220,6 +238,8 @@
     <script src="https://bulma.io/vendor/clipboard-1.7.1.min.js"></script>
     <script src="https://bulma.io/vendor/js.cookie-2.1.4.min.js"></script>
     <script src="https://bulma.io/lib/main.js?v=202010072007"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
     <script src="assets/js/index.js"></script>
     <!-- JS end -->
   </body>
