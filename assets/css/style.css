@@ -20,7 +20,7 @@ body{
     font-size: 1.1rem;
 }
 .navigation-bar{
-    margin: 0% 0%;
+    margin: 0% 3%;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .navbar-item img{
@@ -72,7 +72,6 @@ body{
     font-size:1.85rem;
     font-weight: bold;
     color: #D7D7D7;
-    margin-top: 6px;
 }
 
 /* .nav-title:hover{
