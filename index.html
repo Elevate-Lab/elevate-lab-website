@@ -176,36 +176,40 @@
   <!--Contact Us Section-->
 <div id="contactBlock">    
   <div class="container is-max-desktop contactus-container">
-    <form action="">
+    <form action="" id="form">
       <div class="field">
         <h4>Contact Us</h4>
       </div>
       <div class="field">
         <label class="label">Name</label>
         <div class="control">
-          <input class="input" type="text" placeholder="Name">
+          <input class="input" type="text" placeholder="Name" id="name">
         </div>
+        <div id="name-err"></div>
       </div>
       <div class="field">
         <label class="label">Email</label>
         <div class="control has-icons-left has-icons-right">
-          <input class="input is-danger" type="email" placeholder="Email" value="">
+          <input class="input" type="text" placeholder="Email" value="" id="email">
           <span class="icon is-small is-left">
             <i class="fas fa-envelope"></i>
           </span>
         </div>
+        <div id="email-err"></div>
       </div>
       <div class="field">
         <label class="label">Message</label>
         <div class="control">
-          <textarea class="textarea" placeholder="Message"></textarea>
+          <textarea class="textarea" placeholder="Message" id="message"></textarea>
         </div>
+        <div id="message-err"></div>
       </div>
       <div class="field is-grouped">
         <div class="control">
           <button class="button is-link">Submit</button>
         </div>
       </div>
+      <div id="submit-msg"></div>
     </form>
   </div>
  </div> 
@@ -238,9 +242,13 @@
     <script src="https://bulma.io/vendor/clipboard-1.7.1.min.js"></script>
     <script src="https://bulma.io/vendor/js.cookie-2.1.4.min.js"></script>
     <script src="https://bulma.io/lib/main.js?v=202010072007"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    
     <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
+
     <script src="assets/js/index.js"></script>
+    <script src="assets/js/contactus.js"></script>
     <!-- JS end -->
   </body>
 </html>

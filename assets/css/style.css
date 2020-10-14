@@ -520,6 +520,16 @@ footer .column{
     background-color: #EFEFEF;
 }
 
+#email-err, #message-err, #name-err, .error-msg, .success-msg{
+    color: rgb(255, 74, 74);
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.success-msg{
+    color: rgb(30, 255, 30);
+}
+
 /*Contact Us Section End*/
 /* Event Section Start */
 .event-card{
