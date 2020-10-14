@@ -1,0 +1,41 @@
+
+    body{
+        background-color: #0A192F;
+        color: #d7d7d7;
+    }
+    * {
+        background-color: #0A192F;
+        color: #d7d7d7;
+    }
+    .nav-title{
+        color: #D7D7D7;
+    }
+    a.item-nav{
+        color: #D7D7D7;
+    }
+    .line-text{
+        border-color: white;
+    }
+    .title, .label{
+        color: #d7d7d7;
+    }
+    .text-with-line{
+        background-color: #0A192F ;
+    }
+    .card, .project-card{
+        background-color: #081529;
+    }
+    .card *, .project-card *{
+        background-color: #081529;
+    }
+    .contactus-container, .contactus-container *{
+        background-color: #01122b;
+        color: #d7d7d7;
+    }
+    footer, .about-text, footer .column, .new, .bottom-icon{
+        background-color: #01122b;
+        color: #fff;
+    }
+    .title, .label{
+        color: #fff;
+    }

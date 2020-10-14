@@ -10,6 +10,8 @@
       <!-- bulma -->
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
       <link href="../css/style.css" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" href="../css/dark.css" media="(prefers-color-scheme: dark)">
+      <link rel="stylesheet" href="../css/light.css" media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)">
       <!-- style end -->
       <!-- google fonts start -->
       <link href="http://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CRacing+Sans+One" rel="stylesheet" type="text/css">
@@ -58,7 +60,7 @@
                   <a class="item-nav navbar-item" href="#">
                   Learn
                   </a>
-                  <a class="item-nav navbar-item" href="#">
+                  <a class="item-nav navbar-item" href="../../index.html#contactBlock">
                   Contact Us
                   </a>
                </div>
@@ -67,8 +69,16 @@
     </div>
     <!-- Navigation Bar End -->
 
+    <!-- Toggle Button -->
+    <div class="toggle-mode">
+        <input type="checkbox" id="toggle" class="checkbox" />
+        <label for="toggle" class="switch"></label>
+        <span class="mode-text">Dark Mode</span>
+        </div>
+        <!-- Toggle Button End -->
+
     <!-- Project Section -->
-    <h1 class="heading text-center">Projects</h1>
+    <h1 class="heading text-center project-heading">Projects</h1>
     <div class="container banner-section">
         <div class="columns is-gapless">
             <div class='column project-column'>
@@ -207,6 +217,32 @@
 
     </div>
       <!-- Project Section End-->
+
+      <!--Footer Start-->
+    <footer class="footer new">
+    <div class="columns">
+       <div class="column">
+        <div class="new content has-text-centered">
+          <p class="new">About Us:</p>
+          <p class="about-text"><i>Elevate Lab</i> is an Organisation for university students who Collaboratively wants to bring about a change through technology. We Believe In Contributing Towards The Betterment Of Society Through Technology . Anyone  is welcome here for contributing and to learn Open Source
+          </p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="new content social has-text-centered">
+        <p class="new">Follow Us:</p>
+          <div class="new">
+            <a class="new" href=""><i class="bottom-icon fab fa-instagram"></i></a>
+            <a class="new" href=""><i class="bottom-icon fab fa-linkedin-in"></i></a>
+            <a class="new" href=""><i class="bottom-icon fab fa-twitter"></i></a>
+            <a class="new" href=""><i class="bottom-icon fab fa-facebook"></i></a>
+            <a class="new" href="https://github.com/Elevate-Lab"><i class="bottom-icon fab fa-github"></i></a>
+            <a class="new" href=""><i class="bottom-icon fab fa-youtube"></i></a>
+          </div>
+         </div>
+        </div>
+    </footer>
+    <!--Footer End-->
 
       <!-- JS start -->
       <script src="https://bulma.io/vendor/clipboard-1.7.1.min.js"></script>
