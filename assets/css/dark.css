@@ -28,7 +28,11 @@
     .card *, .project-card *{
         background-color: #081529;
     }
-    .new, .bottom-icon{
+    .contactus-container, .contactus-container *{
+        background-color: #01122b;
+        color: #d7d7d7;
+    }
+    footer, .about-text, footer .column, .new, .bottom-icon{
         background-color: #01122b;
         color: #fff;
     }
