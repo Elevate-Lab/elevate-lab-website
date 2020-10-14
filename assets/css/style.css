@@ -71,7 +71,8 @@ body{
 .nav-title{
     font-size:1.85rem;
     font-weight: bold;
-    color: #D7D7D7;;
+    color: #D7D7D7;
+    margin: 10px auto;
 }
 
 /* .nav-title:hover{
