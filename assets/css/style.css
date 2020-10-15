@@ -272,9 +272,6 @@ footer .column{
     color: #D7D7D7;
 }
 
-.bottom-icon {
-    /* background-color: #01122b; */
-} 
 .bottom-icon:hover{
   cursor:pointer;
     color: #5d42bd;
@@ -282,7 +279,6 @@ footer .column{
     margin:10px auto;
     padding:10px auto;
     transition:0.4s ease-out;
-    /* background-color:#0e0e29; */
     box-shadow:1px  6px #02080f;
     top:2px;
     border-radius:5px;
@@ -290,19 +286,18 @@ footer .column{
     border-right: #02080f;
 } 
 .bottom-icon:focus{
-      cursor:pointer;
+    cursor:pointer;
     color:  #5d42bd;
     font-weight: 600;
     margin:10px auto;
     padding:10px auto;
     transition:0.4s ease-out;
-    /* background-color: #0e0e29 ; */
     box-shadow:1px  4px #02080f;
     top:2px;
     border: radius 10px;
 }
 .bottom-icon:active{
-     cursor:pointer;
+    cursor:pointer;
     color:  #5d42bd;
     font-weight: 600;
     margin:10px auto;
