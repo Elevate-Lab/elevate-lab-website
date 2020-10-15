@@ -1,63 +1,64 @@
 (function(global){
-    var mode = global.localStorage.getItem("mode") || '';
+    var mode = global.localStorage.getItem("mode");
 
-if(mode==='')
-{
-window.matchMedia('(prefers-color-scheme: dark)').addListener(function(e) {
-    if (e.matches) {
-      console.log('dark mode is enabled');
-      mode = 'dark';
-    } else {
-      console.log('dark mode is disabled');
-      mode = 'light';
-    }
-  });
-}
-console.log(mode);
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(function(e) {
 
-var uri = document.documentURI;
-var docname = (uri.substring(uri.length-10,uri.length-5)); // check if page is index.html
+        if (e.matches) {
+        console.log('dark mode is enabled');
+        mode = 'dark';
+        } else {
+        console.log('dark mode is disabled');
+        mode = 'light';
+        }
+        colorTheme(mode);
+        
+    });
 
-var head = document.getElementsByTagName('HEAD')[0];  
-var link = document.createElement('link'); 
-link.rel = 'stylesheet';  
-link.type = 'text/css'; 
-if(link!==''){
-    if(docname==="index")                       // check if the doc is index.html
-    {
-        link.href = 'assets/css/'+mode+'.css'; 
-    }
-    else
-    {
-        link.href = '../css/'+mode+'.css';
-    }
+    console.log(mode);
+
+    var head = document.getElementsByTagName('HEAD')[0]; 
+    var link = document.createElement('link'); 
+    link.rel = 'stylesheet';  
+    link.type = 'text/css'; 
+    const fileName = location.href.split("/").slice(-1)[0];
+        if(fileName==="" || fileName==="index.html")
+            link.href="/assets/css/"+mode+".css";
+        else
+            link.href="../css/"+mode+".css";
     head.appendChild(link);
-}
 
-global.localStorage.setItem("mode",mode);
+    global.localStorage.setItem("mode",mode);
 
-var toggleButton = document.getElementById("toggle");
-if(mode === 'dark')
-    toggleButton.checked = true;
-
-toggleButton.addEventListener("click", function(){
-    console.log("clicked");
-    if(mode === 'dark'){
-        if(docname === "index"){                // check if the doc is index.html
-        link.href = 'assets/css/light.css'; 
+    const toggleButton = document.getElementById("toggle");
+    if(mode === 'dark')
+        toggleButton.checked = true;
+        
+    toggleButton.addEventListener("click", function(){
+        if(mode === 'dark'){
+            mode = 'light';
+            colorTheme('light');
         }
         else{
-            link.href='../css/light.css';
+            mode = 'dark';
+            colorTheme('dark');
         }
-        mode = 'light';
+    });
+
+    function colorTheme(pref){
+        const name = location.href.split("/").slice(-1)[0];
+        if(name==="" || name==="index.html")
+            link.href="/assets/css/"+pref+".css";
+        else
+            link.href="../css/"+pref+".css";
+
+        
+        link.href="../../assets/css/"+pref+".css";
+        console.log(link.href);
+        global.localStorage.setItem("mode",pref);
+        if(mode === 'dark')
+            toggleButton.checked = true;
+        else    
+            toggleButton.checked = false;
     }
-    else{
-        if(docname === "index"){
-            link.href = 'assets/css/dark.css'; }
-        else{link.href='../css/dark.css';}
-        mode = 'dark';
-    }
-    global.localStorage.setItem("mode",mode);
-})
 
 }(window))
