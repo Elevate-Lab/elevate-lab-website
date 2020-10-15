@@ -51,9 +51,6 @@
         else
             link.href="../css/"+pref+".css";
 
-        
-        link.href="../../assets/css/"+pref+".css";
-        console.log(link.href);
         global.localStorage.setItem("mode",pref);
         if(mode === 'dark')
             toggleButton.checked = true;
