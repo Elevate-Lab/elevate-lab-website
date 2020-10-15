@@ -58,6 +58,23 @@ Contributors can share websites, youtube videos, courses which helped them build
          
 
         <!-- ________ Contributor's suggest END ________  -->
+        
+
+         <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Nur Hambali
+
+         Your Interests and Hobbies: Exploring Tech Related Stuffs,  Learnings to Implementation!!
+              
+         Useful Resources:heart_eyes::heart_eyes::
+                   
+                       * An Awesome Resource to learn React: https://www.youtube.com/watch?v=hQAHSlTtcmY
+
+                       
+                       * Best learning website: https://www.udemy.com/
+                       
+
+        <!-- ________ Contributor's suggest END ________  -->
 
 
         
