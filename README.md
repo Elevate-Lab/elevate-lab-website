@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -88,6 +88,7 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/nur-hambali-064126131/"><img src="https://avatars3.githubusercontent.com/u/61378823?v=4" width="100px;" alt=""/><br /><sub><b>chorongbali</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=hambali999" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/dimlaksana"><img src="https://avatars1.githubusercontent.com/u/57056689?v=4" width="100px;" alt=""/><br /><sub><b>dimlaksana</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=dimlaksana" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/chuckyroh"><img src="https://avatars3.githubusercontent.com/u/12401186?v=4" width="100px;" alt=""/><br /><sub><b>Charles Roh</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=chuckyroh" title="Documentation">📖</a></td>
   </tr>
 </table>
 
