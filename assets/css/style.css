@@ -402,6 +402,10 @@ footer .column{
 	margin-top: 20px;
 }
 
+.columns.is-gapless{
+    padding-bottom: 50px;
+}
+
 @media only screen and (max-width: 768px) {
 	.project-heading{
 		margin-top: 40px;
