@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -81,6 +81,7 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/baptistebrand"><img src="https://avatars3.githubusercontent.com/u/72191498?v=4" width="100px;" alt=""/><br /><sub><b>Baptiste Brand</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=baptistebrand" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/sanskar-p"><img src="https://avatars0.githubusercontent.com/u/54014518?v=4" width="100px;" alt=""/><br /><sub><b>Sanskar Patro</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=sanskar-p" title="Documentation">📖</a></td>
     <td align="center"><a href="https://kundanb.github.io"><img src="https://avatars2.githubusercontent.com/u/67975986?v=4" width="100px;" alt=""/><br /><sub><b>Kundan Bhasin</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=kundanb" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://anacarolinaarellano.dev/"><img src="https://avatars0.githubusercontent.com/u/42853512?v=4" width="100px;" alt=""/><br /><sub><b>Ana Carolina Arellano</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=anacarolinaarellano" title="Documentation">📖</a></td>
   </tr>
 </table>
 
