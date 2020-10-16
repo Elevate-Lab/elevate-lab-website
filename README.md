@@ -4,8 +4,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
-This repository is to make Website to help expand the idea!
-The website will contain information regarding all the wonderful people as well as events associated with the same!🌟
+This repository is to make Website to help expand the wonderful idea!
+The website will contain information about all the wonderful people as well as events associated with the same!🌟
 Let's learn and make this. 🌞
 
 ## _**Link to Github Pages**_
