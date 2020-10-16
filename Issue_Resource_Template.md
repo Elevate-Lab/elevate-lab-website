@@ -188,3 +188,22 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<!------ ________ Contributor's suggest START ________  ------>
+<pre>
+
+         Your Name: Charles
+
+         Your Interests and Hobbies: Vue and lately it's been making art through code
+
+         Useful Resources:
+
+                       * Starting point for making art by coding: <https://dev.to/aspittel/intro-to-generative-art-2hi7>
+
+
+                       * Simple guide for git (good reference): <https://rogerdudler.github.io/git-guide/> 
+
+
+                       * Example of the design thought process behind a site: <https://design.theguardian.com/>
+
+</pre>
+<!------ ________ Contributor's suggest END ________  ------>
