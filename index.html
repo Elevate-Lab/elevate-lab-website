@@ -1,98 +1,138 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-        <title>
-            Elevate Lab
-        </title>
-        <meta content="Elevate Lab  Website" name="description">
-        <meta content="Team Elevate Lab" name="author">
-        <meta content="website" name="keywords">
-        <meta content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>Elevate Lab</title>
+    <meta content="Elevate Lab  Website" name="description" />
+    <meta content="Team Elevate Lab" name="author" />
+    <meta content="website" name="keywords" />
+    <meta
+      content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+      name="viewport"
+    />
 
-        <!-- style start -->
+    <!-- style start -->
 
-        <!-- bulma -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
-        <link href="assets/css/style.css" media="all" rel="stylesheet" type="text/css">
+    <!-- bulma -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"
+    />
+    <link
+      href="assets/css/style.css"
+      media="all"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link 
+      rel="stylesheet"
+      href="assets/css/dark.css" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <link
+     rel="stylesheet" 
+     href="assets/css/light.css" 
+     media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+    />
 
-        <!-- style end -->
+    <!-- style end -->
 
-        <!-- icon start -->
-        <link rel="icon" href="assets/images/github_logo.ico" />
-        <!-- icon end -->
+    <!-- icon start -->
+    <link rel="icon" href="assets/images/github_logo.ico" />
+    <!-- icon end -->
 
+    <!--Font Awesome start-->
+    <script
+      defer
+      src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"
+    ></script>
+    <!--Font Awesome end-->
 
-        <!--Font Awesome start-->
-        <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
-        <!--Font Awesome end-->
-
-
-        <!-- google fonts start -->
-        <link href="http://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CRacing+Sans+One" rel="stylesheet" type="text/css">
-        <!-- google fonts end -->
-</head>
-<body>
+    <!-- google fonts start -->
+    <link
+      href="http://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CRacing+Sans+One"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- google fonts end -->
+  </head>
+  <body class="has-navbar-fixed-top">
     <!-- Navigation Bar -->
     <div class="nav-container">
-      <nav class="navbar navigation-bar" role="navigation" aria-label="main navigation">
-          <div class="navbar-brand">
-            <a class="navbar-item" href="#">
-              <img src="assets/images/Logo/Logo_Vector_Only.svg" class="logo-img" alt="Elevate Lab Logo">
-              <h1 class="nav-title navbar-item">Elevate Lab</h1>
-            </a>
-            <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-              <span></span>
-              <span></span>
-              <span></span>
-            </div>
+      <nav
+        class="navbar navigation-bar is-fixed-top"
+        role="navigation"
+        aria-label="main navigation"
+      >
+        <div class="navbar-brand">
+          <a class="navbar-item" href="index.html">
+            <img
+              src="assets/images/Logo/Logo_Vector_Only.svg"
+              class="logo-img"
+              alt="Elevate Lab Logo"
+            />
+            <a href="index.html"
+              ><h1 class="nav-title navbar-item">Elevate Lab</h1></a
+            >
+          </a>
+          <div
+            class="navbar-burger burger"
+            data-target="navbarExampleTransparentExample"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
           </div>
+        </div>
 
-          <div id="navbarExampleTransparentExample" class="navbar-menu">
-            <div class="navbar-end">
-              <a class="item-nav navbar-item" href="#">
-                Home
-              </a>
-              <a class="item-nav navbar-item" href="assets/html/team.html">
-                Team
-              </a>
-              <a class="item-nav navbar-item" href="#">
-                Projects
-              </a>
-              <a class="item-nav navbar-item" href="#">
-                Events
-              </a>
-              <a class="item-nav navbar-item" href="#">
-                Contribute
-              </a>
-              <a class="item-nav navbar-item" href="#">
-                Learn
-              </a>
-              <a class="item-nav navbar-item" href="#">
-                Contact Us
-              </a>
-            </div>
+        <div id="navbarExampleTransparentExample" class="navbar-menu">
+          <div class="navbar-end">
+            <a class="item-nav navbar-item" style="text-decoration: none;
+            border-bottom: 2px solid blue;padding-bottom: 4px;color:blue;font-family: 'Poppins', sans-serif;font-weight: 500"href="index.html"> Home </a>
+            <a class="item-nav navbar-item" href="./assets/html/team.html">
+              Team
+            </a>
+            <a class="item-nav navbar-item" href="./assets/html/project.html">
+              Projects
+            </a>
+            <a class="item-nav navbar-item" href="#"> Events </a>
+            <a class="item-nav navbar-item" href="#"> Contribute </a>
+            <a class="item-nav navbar-item" href="#"> Learn </a>
+            <a class="item-nav navbar-item" href="#contactBlock"> Contact Us </a>
           </div>
+        </div>
       </nav>
     </div>
     <!-- Navigation Bar End -->
+    
+    <!-- Toggle Button -->
+    <div class="toggle-mode">
+    <input type="checkbox" id="toggle" class="checkbox" />
+    <label for="toggle" class="switch"></label>
+    <span class="mode-text">Dark Mode</span>
+    </div>
+    <!-- Toggle Button End -->
 
     <!-- Banner Section -->
     <div class="container banner-section">
       <div class="columns is-gapless">
         <div class="column is-half">
-          <h2 class="heading">
-            ELEVATE LAB
-          </h2>
+          <h2 class="heading">ELEVATE LAB</h2>
           <p class="subheading">
-          Elevate Lab is a <span style="color: #E1382B;"> Students </span><span style="color: #557DBF;"> Developer </span> <span style="color: #FBBC12;"> Program </span> for university students
-          to learn mobile and web development skills , design thinking skills and leadership skills. Elevate Lab is here for change.
-            <br>
-            <span style="color: #E1382B;"># Lets Learn, </span><span style="color: #557DBF;">Grow and</span> <span style="color: #FBBC12;">Innovate together.</span>
+            Elevate Lab is an Organisation for university students who want to
+            bring about a change through technology. We are focused upon
+            building technical and non-technical skills, which would help
+            students to build a better community.
+            <br />
+            # Lets Learn, Grow and Innovate together.
           </p>
         </div>
         <div class="column is-half image-half">
-          <img class="banner-image" src="assets/images/Logo/Logo_Vector_Only.png"/>
+          <img
+            class="banner-image"
+            src="assets/images/Logo/Logo_Vector_Only.png"
+          />
         </div>
       </div>
 
@@ -100,64 +140,119 @@
         <div class="columns is-2">
           <div class="column card-feature">
             <div class="feature-container">
-              <h4 class="feature-heading">
-                Concept of Elevate Lab
-              </h4>
+              <h4 class="feature-heading">What's Our Vision?</h4>
               <p class="feature-subheading">
-                Elevate Lab is a grassroots channel which provides development skills, mobile and web development skills for students, towards employability.
+                Elevate Lab's primary aim lies in empowering students with
+                development skills and other technical abilities for growth and
+                advancement.
               </p>
             </div>
           </div>
           <div class="column card-feature">
             <div class="feature-container">
-              <h4 class="feature-heading">
-                Why Elevate Lab?
-              </h4>
+              <h4 class="feature-heading">Why Elevate Lab?</h4>
               <p class="feature-subheading">
-                For students to learn development skills, solve problems through technology and inspire them to be world class developers and changemakers.
+                We believe in innovation and evolution. For students to grow
+                their skills to tackle problems and to bring about change.
               </p>
             </div>
           </div>
           <div class="column card-feature">
             <div class="feature-container">
-              <h4 class="feature-heading">
-                Target audience
-              </h4>
+              <h4 class="feature-heading">Who Can Join?</h4>
               <p class="feature-subheading">
-                Elevate Lab's activities are targeted at University students and any others including faculty members who want to learn development skills & work to solve real-life problems.
+                Elevate Lab's activities are targeted at university students and
+                those who wish to learn technology for solving real life
+                problems.
               </p>
             </div>
           </div>
         </div>
       </div>
-
     </div>
-    <!-- Banner Section End -->
 
+  
 
+  <!-- Banner Section End -->
+  <!--Contact Us Section-->
+<div id="contactBlock">    
+  <div class="container is-max-desktop contactus-container">
+    <form action="" id="form">
+      <div class="field">
+        <h4>Contact Us</h4>
+      </div>
+      <div class="field">
+        <label class="label">Name</label>
+        <div class="control">
+          <input class="input" type="text" placeholder="Name" id="name">
+        </div>
+        <div id="name-err"></div>
+      </div>
+      <div class="field">
+        <label class="label">Email</label>
+        <div class="control has-icons-left has-icons-right">
+          <input class="input" type="text" placeholder="Email" value="" id="email">
+          <span class="icon is-small is-left">
+            <i class="fas fa-envelope"></i>
+          </span>
+        </div>
+        <div id="email-err"></div>
+      </div>
+      <div class="field">
+        <label class="label">Message</label>
+        <div class="control">
+          <textarea class="textarea" placeholder="Message" id="message"></textarea>
+        </div>
+        <div id="message-err"></div>
+      </div>
+      <div class="field is-grouped">
+        <div class="control">
+          <button class="button is-link">Submit</button>
+        </div>
+      </div>
+      <div id="submit-msg"></div>
+    </form>
+  </div>
+ </div> 
+    
+  <!--Contact Us Section End-->  
+    
     <!--Footer Start-->
     <footer class="footer new">
-      <div class="new content has-text-centered">
-        <p class="new">Follow Us:</p>
-        <div class="new">
-          <a class="new" href=""><i class="bottom-icon fab fa-instagram"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-linkedin-in"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-twitter"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-facebook"></i></a>
-          <a class="new" href="https://github.com/Elevate-Lab"><i class="bottom-icon fab fa-github"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-youtube"></i></a>
+      <div class="columns">
+        <div class="column">
+          <div class="new content about has-text-centered">
+            <p class="new">About Us:</p>
+            <p class="about-text">Elevate Lab is an Organisation for university students who Collaboratively wants to bring about a change through technology. We Believe In Contributing Towards The Betterment Of Society Through Technology . Anyone is welcome here for contributing and to learn Open Source</p>
+          </div>
         </div>
-        
-      </div>
+        <div class="column">
+          <div class="new content social has-text-centered">
+            <p class="new">Follow Us:</p>
+            <div class="new">
+              <a class="new" href=""><i class="bottom-icon fab fa-instagram"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-linkedin-in"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-twitter"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-facebook"></i></a>
+              <a class="new" href="https://github.com/Elevate-Lab"><i class="bottom-icon fab fa-github"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-youtube"></i></a>
+            </div>
+          </div>
+        </div>
     </footer>
     <!--Footer End-->
-    
 
     <!-- JS start -->
     <script src="https://bulma.io/vendor/clipboard-1.7.1.min.js"></script>
     <script src="https://bulma.io/vendor/js.cookie-2.1.4.min.js"></script>
     <script src="https://bulma.io/lib/main.js?v=202010072007"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
+
     <script src="assets/js/index.js"></script>
+    <script src="assets/js/contactus.js"></script>
     <!-- JS end -->
-</body>
+  </body>
 </html>
