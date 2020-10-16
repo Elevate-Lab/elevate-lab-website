@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -84,6 +84,9 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://anacarolinaarellano.dev/"><img src="https://avatars0.githubusercontent.com/u/42853512?v=4" width="100px;" alt=""/><br /><sub><b>Ana Carolina Arellano</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=anacarolinaarellano" title="Documentation">📖</a></td>
     <td align="center"><a href="http://Thecsestudents.wordpress.com"><img src="https://avatars2.githubusercontent.com/u/45424062?v=4" width="100px;" alt=""/><br /><sub><b>amninder singh</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=amnindersingh12" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/PrasannaBH"><img src="https://avatars3.githubusercontent.com/u/55347026?v=4" width="100px;" alt=""/><br /><sub><b>PrasannaBH</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=PrasannaBH" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/nur-hambali-064126131/"><img src="https://avatars3.githubusercontent.com/u/61378823?v=4" width="100px;" alt=""/><br /><sub><b>chorongbali</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=hambali999" title="Documentation">📖</a></td>
   </tr>
 </table>
 
