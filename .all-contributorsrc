@@ -338,6 +338,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "chuckyroh",
+      "name": "Charles Roh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12401186?v=4",
+      "profile": "https://github.com/chuckyroh",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
