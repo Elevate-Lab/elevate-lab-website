@@ -22,7 +22,7 @@
     link.type = 'text/css'; 
     const fileName = location.href.split("/").slice(-1)[0];
         if(fileName==="" || fileName==="index.html")
-            link.href="elevate-lab-website/assets/css/"+mode+".css";
+            link.href="./assets/css/"+mode+".css";
         else
             link.href="../css/"+mode+".css";
     head.appendChild(link);
@@ -47,7 +47,7 @@
     function colorTheme(pref){
         const name = location.href.split("/").slice(-1)[0];
         if(name==="" || name==="index.html")
-            link.href="elevate-lab-website/assets/css/"+pref+".css";
+            link.href="./assets/css/"+pref+".css";
         else
             link.href="../css/"+pref+".css";
 
