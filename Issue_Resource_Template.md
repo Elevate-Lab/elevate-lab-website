@@ -144,4 +144,47 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!------ ________ Contributor's suggest START ________  ------>
+<pre>
+
+         Your Name: Ana Carolina Arellano
+
+         Your Interests and Hobbies: Going to museums and concerts!
+
+         Useful Resources:
+
+                       * Resource to learn GatsbyJS: <a href="https://www.gatsbyjs.com/tutorial/">https://www.gatsbyjs.com/tutorial/</a>
+
+
+                       * Resource to know the react-bootstrap components: <a href="https://react-bootstrap.github.io/components/cards/">https://react-bootstrap.github.io/components/cards/</a>
+
+
+                       * Resource to prepare for coding interviews: Book: Cracking the coding interview   
+
+</pre>
+<!------ ________ Contributor's suggest END ________  ------>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!-- ________ Contributor's suggest START ________  -->
+<pre>
+
+         Your Name: Amninder Singh
+
+         Your Interests and Hobbies: Playing chess,coding, watching anime, competative coding !!
+
+         Useful Resources:
+
+                       * An Awesome Resource to learn  Git: https://youtu.be/RGOj5yH7evk
+
+                       * Resource to learn javascript: https://www.youtube.com/c/TheCodingTrain
+
+                       *  Python for beginners: https://automatetheboringstuff.com/
+
+</pre>
+<!-- ________ Contributor's suggest END ________  -->
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
