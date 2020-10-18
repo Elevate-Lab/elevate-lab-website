@@ -172,6 +172,7 @@ a.item-nav:focus {
     min-width: 15rem;
     padding-left: 3rem;
     margin-top: 3rem;
+    margin-bottom: 2rem;
     margin-left: auto;
 }
 .switch { 
