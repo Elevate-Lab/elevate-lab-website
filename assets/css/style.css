@@ -396,13 +396,18 @@ footer .column{
 
 /* Project Section  */
 
+
 .project-heading{
 	margin-top: 20px;
 }
 
+.project-column{
+    margin-top: 40px !important;
+}
+
 @media only screen and (max-width: 768px) {
 	.project-heading{
-		margin-top: 40px;
+		margin-top: 40px !important;
 	}
     .project-column{
 		margin-top: 80px !important;
