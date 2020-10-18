@@ -12,11 +12,13 @@
         <!-- bulma -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
         <link href="../css/style.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="../css/dark.css" media="(prefers-color-scheme: dark)">
+        <link rel="stylesheet" href="../css/light.css" media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)">
 
         <!-- style end -->
 
         <!-- google fonts start -->
-        <link href="http://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CRacing+Sans+One" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Racing+Sans+One&display=swap" rel="stylesheet">
         <!-- google fonts end -->
 
         <!-- Material ui cdn -->
@@ -35,9 +37,9 @@
     <div class="nav-container">
         <nav class="navbar navigation-bar is-fixed-top" role="navigation" aria-label="main navigation">
             <div class="navbar-brand">
-              <a class="navbar-item" href="/index.html">
+              <a class="navbar-item" href="../../index.html">
                 <img src="../images/Logo/Logo_Vector_Only.svg" class="logo-img" alt="Elevate Lab Logo">
-                <a href="/index.html"><h1 class="nav-title navbar-item">Elevate Lab</h1></a>
+                <a href="../../index.html"><h1 class="nav-title navbar-item">Elevate Lab</h1></a>
               </a>
               <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
                 <span></span>
@@ -51,7 +53,7 @@
                 <a class="item-nav navbar-item" href="../../index.html">
                   Home
                 </a>
-                <a class="item-nav navbar-item" href="#">
+                <a class="item-nav navbar-item"style="text-decoration: none;border-bottom: 2px solid blue;padding-bottom: 4px;color:blue;font-family: 'Poppins', sans-serif;font-weight: 500" href="#">
                   Team
                 </a>
                 <a class="item-nav navbar-item" href="./project.html">
@@ -74,6 +76,14 @@
         </nav>
       </div>
       <!-- Navigation Bar End -->
+
+    <!-- Toggle Button -->
+    <div class="toggle-mode">
+      <input type="checkbox" id="toggle" class="checkbox" />
+      <label for="toggle" class="switch"></label>
+      <span class="mode-text">Dark Mode</span>
+      </div>
+    <!-- Toggle Button End -->
 
       <!-- Team Section -->
       <h1 class="heading text-center team-heading">Meet The Team</h1>
