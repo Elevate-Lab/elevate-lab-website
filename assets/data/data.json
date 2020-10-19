@@ -30,7 +30,7 @@
         "firstname":"Jyotika","img":"https://avatars.githubusercontent.com/Jyotika999","lastname":"Bhatti","github":"https://github.com/Jyotika999","linkedin":"https://www.linkedin.com/in/jyotika-bhatti-a384a0194/","twitter":"https://twitter.com/BhattiJyotika"
 
     },{
-        "firstname":"Hardik","img":"https://avatars0.githubusercontent.com/u/58038410?s=460&u=94a87f71aaef953046b2155d58e88c3de0f81480&v=4.png","lastname":"Bajaj","github":"https://github.com/hardikbajaj","linkedin":"www.linkedin.com/in/hardikbajaj","twitter":"https://twitter.com/Soultitude_"
+        "firstname":"Hardik","img":"https://avatars0.githubusercontent.com/u/58038410?s=460&u=94a87f71aaef953046b2155d58e88c3de0f81480&v=4.png","lastname":"Bajaj","github":"https://github.com/hardikbajaj","linkedin":"https://www.linkedin.com/in/hardikbajaj","twitter":"https://twitter.com/Soultitude_"
     },{
         "firstname":"Anjali","img":"https://avatars.githubusercontent.com/IC1101Virgo","lastname":"Chaturvedi","github":"https://github.com/IC1101Virgo","linkedin":"https://www.linkedin.com/in/anjali-chaturvedi-b081a5199/","twitter":"https://twitter.com/Nirvana_Nvrmind"   
     },{
@@ -83,6 +83,10 @@
     },{
 
         "firstname": "Jim","img": "https://avatars2.githubusercontent.com/u/70768427?s=460&u=fc00ace87672f573e6910872025bbea0bc2de7f6&v=4","lastname": "Bowler","github": "https://github.com/JimBowler82","linkedin": "https://www.linkedin.com/in/james-a-bowler/", "twitter":"https://twitter.com/JimBowler82"
+    },
+    {
+
+        "firstname": "Mohd","img": "https://avatars2.githubusercontent.com/u/61681342?s=460&u=5432202ec9d6d947ff2a6b300dcd1dc84898cefa&v=4","lastname": "Shahid","github": "https://github.com/sidmirza4","linkedin": "https://www.linkedin.com/in/sidmirza4/", "twitter":"https/twitter.com/sidmirza4"
 
     }]
 }
