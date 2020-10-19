@@ -326,9 +326,12 @@ footer .column {
 }
 
 @media only screen and (max-width: 768px) {
-  .team-heading {
-    margin-top: 40px;
-  }
+	.team-heading{
+		margin-top: 40px;
+	}
+    .image-half .banner-image{
+        margin-top: 40px;
+    }
 }
 
 .line-text {
