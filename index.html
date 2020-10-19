@@ -25,6 +25,16 @@
       rel="stylesheet"
       type="text/css"
     />
+    <link 
+      rel="stylesheet"
+      href="assets/css/dark.css" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <link
+     rel="stylesheet" 
+     href="assets/css/light.css" 
+     media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+    />
 
     <!-- style end -->
 
@@ -40,10 +50,9 @@
     <!--Font Awesome end-->
 
     <!-- google fonts start -->
-    <link
-      href="http://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CRacing+Sans+One"
+    <link 
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Racing+Sans+One&display=swap"
       rel="stylesheet"
-      type="text/css"
     />
     <!-- google fonts end -->
   </head>
@@ -78,7 +87,8 @@
 
         <div id="navbarExampleTransparentExample" class="navbar-menu">
           <div class="navbar-end">
-            <a class="item-nav navbar-item" href="index.html"> Home </a>
+            <a class="item-nav navbar-item" style="text-decoration: none;
+            border-bottom: 2px solid blue;padding-bottom: 4px;color:blue;font-family: 'Poppins', sans-serif;font-weight: 500"href="index.html"> Home </a>
             <a class="item-nav navbar-item" href="./assets/html/team.html">
               Team
             </a>
@@ -88,12 +98,22 @@
             <a class="item-nav navbar-item" href="#"> Events </a>
             <a class="item-nav navbar-item" href="#"> Contribute </a>
             <a class="item-nav navbar-item" href="#"> Learn </a>
-            <a class="item-nav navbar-item" href="#contactBlock"> Contact Us </a>
+            <a class="item-nav navbar-item" href="#contactBlock">
+              Contact Us
+            </a>
           </div>
         </div>
       </nav>
     </div>
     <!-- Navigation Bar End -->
+    
+    <!-- Toggle Button -->
+    <div class="toggle-mode">
+    <input type="checkbox" id="toggle" class="checkbox" />
+    <label for="toggle" class="switch"></label>
+    <span class="mode-text">Dark Mode</span>
+    </div>
+    <!-- Toggle Button End -->
 
     <!-- Banner Section -->
     <div class="container banner-section">
@@ -151,43 +171,46 @@
         </div>
       </div>
     </div>
-
   
 
   <!-- Banner Section End -->
   <!--Contact Us Section-->
 <div id="contactBlock">    
   <div class="container is-max-desktop contactus-container">
-    <form action="">
+    <form action="" id="form">
       <div class="field">
         <h4>Contact Us</h4>
       </div>
       <div class="field">
         <label class="label">Name</label>
         <div class="control">
-          <input class="input" type="text" placeholder="Name">
+          <input class="input" type="text" placeholder="Name" id="name">
         </div>
+        <div id="name-err"></div>
       </div>
       <div class="field">
         <label class="label">Email</label>
         <div class="control has-icons-left has-icons-right">
-          <input class="input is-danger" type="email" placeholder="Email" value="">
+          <input class="input" type="text" placeholder="Email" value="" id="email">
           <span class="icon is-small is-left">
             <i class="fas fa-envelope"></i>
           </span>
         </div>
+        <div id="email-err"></div>
       </div>
       <div class="field">
         <label class="label">Message</label>
         <div class="control">
-          <textarea class="textarea" placeholder="Message"></textarea>
+          <textarea class="textarea" placeholder="Message" id="message"></textarea>
         </div>
+        <div id="message-err"></div>
       </div>
       <div class="field is-grouped">
         <div class="control">
           <button class="button is-link">Submit</button>
         </div>
       </div>
+      <div id="submit-msg"></div>
     </form>
   </div>
  </div> 
@@ -196,23 +219,26 @@
     
     <!--Footer Start-->
     <footer class="footer new">
-      <div class="new content has-text-centered">
-        <p class="new">Follow Us:</p>
-        <div class="new">
-          <a class="new" href=""
-            ><i class="bottom-icon fab fa-instagram"></i
-          ></a>
-          <a class="new" href=""
-            ><i class="bottom-icon fab fa-linkedin-in"></i
-          ></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-twitter"></i></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-facebook"></i></a>
-          <a class="new" href="https://github.com/Elevate-Lab"
-            ><i class="bottom-icon fab fa-github"></i
-          ></a>
-          <a class="new" href=""><i class="bottom-icon fab fa-youtube"></i></a>
+      <div class="columns">
+        <div class="column">
+          <div class="new content about has-text-centered">
+            <p class="new">About Us:</p>
+            <p class="about-text">Elevate Lab is an Organisation for university students who Collaboratively wants to bring about a change through technology. We Believe In Contributing Towards The Betterment Of Society Through Technology . Anyone is welcome here for contributing and to learn Open Source</p>
+          </div>
         </div>
-      </div>
+        <div class="column">
+          <div class="new content social has-text-centered">
+            <p class="new">Follow Us:</p>
+            <div class="new">
+              <a class="new" href=""><i class="bottom-icon fab fa-instagram"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-linkedin-in"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-twitter"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-facebook"></i></a>
+              <a class="new" href="https://github.com/Elevate-Lab"><i class="bottom-icon fab fa-github"></i></a>
+              <a class="new" href=""><i class="bottom-icon fab fa-youtube"></i></a>
+            </div>
+          </div>
+        </div>
     </footer>
     <!--Footer End-->
 
@@ -220,7 +246,13 @@
     <script src="https://bulma.io/vendor/clipboard-1.7.1.min.js"></script>
     <script src="https://bulma.io/vendor/js.cookie-2.1.4.min.js"></script>
     <script src="https://bulma.io/lib/main.js?v=202010072007"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bulma-extensions@6.2.7/dist/js/bulma-extensions.min.js"></script>
+
     <script src="assets/js/index.js"></script>
+    <script src="assets/js/contactus.js"></script>
     <!-- JS end -->
   </body>
 </html>

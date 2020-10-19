@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -80,6 +80,17 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://www.linkedin.com/in/atmanad/"><img src="https://avatars2.githubusercontent.com/u/53367491?v=4" width="100px;" alt=""/><br /><sub><b>Atman Das</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=atmanad" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/baptistebrand"><img src="https://avatars3.githubusercontent.com/u/72191498?v=4" width="100px;" alt=""/><br /><sub><b>Baptiste Brand</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=baptistebrand" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/sanskar-p"><img src="https://avatars0.githubusercontent.com/u/54014518?v=4" width="100px;" alt=""/><br /><sub><b>Sanskar Patro</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=sanskar-p" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://kundanb.github.io"><img src="https://avatars2.githubusercontent.com/u/67975986?v=4" width="100px;" alt=""/><br /><sub><b>Kundan Bhasin</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=kundanb" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://anacarolinaarellano.dev/"><img src="https://avatars0.githubusercontent.com/u/42853512?v=4" width="100px;" alt=""/><br /><sub><b>Ana Carolina Arellano</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=anacarolinaarellano" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://Thecsestudents.wordpress.com"><img src="https://avatars2.githubusercontent.com/u/45424062?v=4" width="100px;" alt=""/><br /><sub><b>amninder singh</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=amnindersingh12" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/PrasannaBH"><img src="https://avatars3.githubusercontent.com/u/55347026?v=4" width="100px;" alt=""/><br /><sub><b>PrasannaBH</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=PrasannaBH" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/nur-hambali-064126131/"><img src="https://avatars3.githubusercontent.com/u/61378823?v=4" width="100px;" alt=""/><br /><sub><b>chorongbali</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=hambali999" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/dimlaksana"><img src="https://avatars1.githubusercontent.com/u/57056689?v=4" width="100px;" alt=""/><br /><sub><b>dimlaksana</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=dimlaksana" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/chuckyroh"><img src="https://avatars3.githubusercontent.com/u/12401186?v=4" width="100px;" alt=""/><br /><sub><b>Charles Roh</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=chuckyroh" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/JimBowler82"><img src="https://avatars1.githubusercontent.com/u/70768427?v=4" width="100px;" alt=""/><br /><sub><b>James Bowler</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=JimBowler82" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BLACK-PEARLL"><img src="https://avatars2.githubusercontent.com/u/60192561?v=4" width="100px;" alt=""/><br /><sub><b>Anjali Kumari</b></sub></a><br /><a href="#design-BLACK-PEARLL" title="Design">🎨</a></td>
   </tr>
 </table>
 

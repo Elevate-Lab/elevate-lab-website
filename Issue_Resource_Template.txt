@@ -15,13 +15,14 @@ Contributors can share websites, youtube videos, courses which helped them build
               
          Useful Resources:
                    
-                       * Resource 1:
-
-                       
-                       * Resource 2:
+                     * Resource1:
 
 
-                       * Resource 3:   
+                     * Resource2:
+
+
+                     * Resource3:
+
                        
          
 
@@ -48,14 +49,31 @@ Contributors can share websites, youtube videos, courses which helped them build
          Useful Resources:heart_eyes::heart_eyes::
                    
                        * An Awesome Resource to learn Git: https://git-scm.com/book/en/v2/
-
                        
+		       
                        * Building First Android App: https://developer.android.com/training/basics/firstapp
-
+		       
 
                        *  Python for beginners: https://developers.google.com/edu/python/
                        
          
+
+        <!-- ________ Contributor's suggest END ________  -->
+        
+
+         <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Nur Hambali
+
+         Your Interests and Hobbies: Exploring Tech Related Stuffs,  Learnings to Implementation!!
+              
+         Useful Resources:heart_eyes::heart_eyes::
+                   
+                       * An Awesome Resource to learn React: https://www.youtube.com/watch?v=hQAHSlTtcmY
+
+                       
+                       * Best learning website: https://www.udemy.com/
+                       
 
         <!-- ________ Contributor's suggest END ________  -->
 
@@ -144,8 +162,47 @@ Contributors can share websites, youtube videos, courses which helped them build
          
 
         <!-- ________ Contributor's suggest END ________  -->
+	
+	<!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Kundan Bhasin
 
-        
+         Your Interests and Hobbies: Watching Animated Movies, Learning Mathematics ;)
+              
+         Useful Resources:
+                   
+                       * Awesome Youtube Channel for learning Web Dev: https://www.youtube.com/user/TechGuyWeb
+
+                       
+                       * Free Resource for all programming:  https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+
+
+                       * Complete Reference for Basic Web Dev: https://developer.mozilla.org/
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
+
+
+         <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Devender kumar
+
+         Your Interests and Hobbies: Exploring Tech Related Stuffs,  Learnings to Implementation!!
+              
+         Useful Resources:heart_eyes::
+                   
+                       * An Awesome Resource to learn Git: https://git-scm.com/book/en/v2/
+                       
+		       
+                       * Building First Android App: https://developer.android.com/training/basics/firstapp
+		       
+
+                       *  Python for beginners: https://developers.google.com/edu/python/
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
         
         
         
