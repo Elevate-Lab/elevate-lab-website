@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
-
 *{
     margin :0;
     font-weight: 400;
@@ -170,7 +168,12 @@ a.item-nav:focus {
 
 /* Toggle Section */
 .toggle-mode{
-    margin: 2% 0 0 80%;
+    width: 30%;
+    min-width: 15rem;
+    padding-left: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
 }
 .switch { 
     position : relative ;
@@ -204,7 +207,14 @@ a.item-nav:focus {
  .mode-text{
      position: relative;
      margin-left: 10px;
-     font-size: 1.5rem;;
+     font-size: 1.5rem;
+ }
+
+@media(max-width:337px){
+    .toggle-mode{
+        margin-top:5rem;
+    }
+}
  }
 /* Toggle Section End */
 
@@ -398,13 +408,18 @@ footer .column{
 
 /* Project Section  */
 
+
 .project-heading{
 	margin-top: 20px;
 }
 
+.project-column{
+    margin-top: 40px !important;
+}
+
 @media only screen and (max-width: 768px) {
 	.project-heading{
-		margin-top: 40px;
+		margin-top: 40px !important;
 	}
     .project-column{
 		margin-top: 80px !important;

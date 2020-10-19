@@ -347,6 +347,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "JimBowler82",
+      "name": "James Bowler",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/70768427?v=4",
+      "profile": "https://github.com/JimBowler82",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "BLACK-PEARLL",
+      "name": "Anjali Kumari",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60192561?v=4",
+      "profile": "https://github.com/BLACK-PEARLL",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
