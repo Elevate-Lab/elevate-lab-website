@@ -88,7 +88,12 @@
 
         "firstname": "Mohd","img": "https://avatars2.githubusercontent.com/u/61681342?s=460&u=5432202ec9d6d947ff2a6b300dcd1dc84898cefa&v=4","lastname": "Shahid","github": "https://github.com/sidmirza4","linkedin": "https://www.linkedin.com/in/sidmirza4/", "twitter":"https/twitter.com/sidmirza4"
 
-    },{
+    },
+    {
         "firstname": "Charles","img": "https://avatars1.githubusercontent.com/u/12401186?s=400&v=4","lastname": "Roh","github": "https://github.com/chuckyroh","linkedin": "https://www.linkedin.com", "twitter":"https/twitter.com"
-    }]
-}
+    },
+    {
+        "firstname": "Mrinal","img": "https://avatars3.githubusercontent.com/u/58396051","lastname": "Bhave","github": "https://github.com/thelavenderhue","linkedin":"https://www.linkedin.com/in/mrinal-bhave-4437901a4/","twitter":"https://twitter.com/mrinalbhave"
+
+    }
+]}
