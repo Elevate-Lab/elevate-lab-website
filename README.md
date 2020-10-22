@@ -1,6 +1,6 @@
 # Elevate Lab Website Development 🌸
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -91,6 +91,7 @@ Thanks goes to these wonderful people 💜 ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/chuckyroh"><img src="https://avatars3.githubusercontent.com/u/12401186?v=4" width="100px;" alt=""/><br /><sub><b>Charles Roh</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=chuckyroh" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/JimBowler82"><img src="https://avatars1.githubusercontent.com/u/70768427?v=4" width="100px;" alt=""/><br /><sub><b>James Bowler</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=JimBowler82" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/BLACK-PEARLL"><img src="https://avatars2.githubusercontent.com/u/60192561?v=4" width="100px;" alt=""/><br /><sub><b>Anjali Kumari</b></sub></a><br /><a href="#design-BLACK-PEARLL" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/thelavenderhue"><img src="https://avatars1.githubusercontent.com/u/58396051?v=4" width="100px;" alt=""/><br /><sub><b>Mrinal Bhave</b></sub></a><br /><a href="https://github.com/Elevate-Lab/elevate-lab-website/commits?author=thelavenderhue" title="Documentation">📖</a></td>
   </tr>
 </table>
 
