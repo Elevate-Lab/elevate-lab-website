@@ -63,11 +63,17 @@
     .text-with-line{
         background-color: #f2f2f0 ;
     }
-    .card, .project-card{
+    .card, .project-card, .event-card{
         background-color: white;
     }
-    .card *, .project-card *{
+    .card *, .project-card *, .event-card *{
         background-color: white;
+    }
+    .event-subhead, .event-head2{
+        color: black;
+    }
+    .break {
+        border-top: 2px solid black;
     }
     .contactus-container, .contactus-container *{
         background-color: white;
