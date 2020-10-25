@@ -45,7 +45,7 @@
     });
 
     function colorTheme(pref){
-        const name = location.href.split("/").slice(-1)[0];
+        const name = location.pathname.split("/").slice(-1)[0];
         if(name==="" || name==="index.html")
             link.href="./assets/css/"+pref+".css";
         else
