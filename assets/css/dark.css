@@ -86,3 +86,25 @@
     .title, .label{
         color: #fff;
     }
+
+    /*Media Queries*/
+    @media only screen and (max-width: 1023px) {
+        div.toggle-mode{
+      height:00px;
+        }
+  label.switch{
+      margin-top: -80px;
+      margin-left:85px;
+      position:fixed;
+      background-color: #070708;
+  }
+  span.mode-text{
+      visibility: hidden;
+  }
+  nav.navbar.navigation-bar.is-fixed-top{
+      opacity:0.9
+  }
+
+
+    }
+
