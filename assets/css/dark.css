@@ -69,6 +69,12 @@
     .card *, .project-card *{
         background-color: #081529;
     }
+    .event-subhead, .event-head2{
+        color: white;
+    }
+    .break{
+        border-top: 2px solid #efefef;
+    }
     .contactus-container, .contactus-container *{
         background-color: #01122b;
         color: #d7d7d7;

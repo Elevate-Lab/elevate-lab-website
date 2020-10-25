@@ -463,6 +463,7 @@ footer .column {
 }
 
 /*Contact Us Section End*/
+
 /* Event Section Start */
 .event-card {
   margin: auto;
@@ -495,6 +496,9 @@ footer .column {
 }
 .event-card-content {
   border-top-left-radius: 75px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
 }
 .event-img-container {
   min-width: 25%;
@@ -511,7 +515,7 @@ footer .column {
 .event-head2 {
   font-size: 20px;
   font-weight: bold;
-  color: white;
+  /* color: white; */
 }
 .event-img-container-2 {
   min-width: 25%;
@@ -537,7 +541,7 @@ footer .column {
   }
 }
 .event-subhead {
-  color: white;
+  /* color: white; */
   font-size: 16px;
 }
 .event-name {
