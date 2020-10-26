@@ -10,8 +10,49 @@
     .nav-title{
         color: #D7D7D7;
     }
-    a.item-nav{
-        color: #D7D7D7;
+    a.item-nav {
+        color: #d7d7d7;
+    }
+    a.item-nav:hover {
+        /* font-weight: 600; */
+        cursor: pointer;
+        color: #5d42bd;
+        margin: 10px auto;
+        padding: 10px auto;
+        transition: 0.4s ease-out;
+        background-color: #0e0e29;
+        /* box-shadow: 1px 6px #02080f; */
+        top: 1px;
+        border-radius: 5px;
+        border-left: #02080f;
+        border-right: #02080f;
+    }
+    a.item-nav:focus {
+      cursor: pointer;
+      color: #5d42bd;
+      /* font-weight: 600; */
+      margin: 10px auto;
+      padding: 10px auto;
+      transition: 0.4s ease-out;
+      background-color: #0e0e29;
+      box-shadow: 1px 4px #02080f;
+      top: 2px;
+      border: radius 10px;
+    }
+    a.item-nav:active {
+      cursor: pointer;
+      color: #5d42bd;
+      font-weight: 600;
+      margin: 10px auto;
+      padding: 10px auto;
+      transition: 0.4s ease-out;
+      background-color: #0e0e29;
+      box-shadow: 1px 2px #02080f;
+      top: 2px;
+      border: radius 3px;
+    }
+    a.item-nav:focus {
+      background-color: #0a192f;
     }
     .line-text{
         border-color: white;
@@ -28,6 +69,12 @@
     .card *, .project-card *{
         background-color: #081529;
     }
+    .event-subhead, .event-head2{
+        color: white;
+    }
+    .break{
+        border-top: 2px solid #efefef;
+    }
     .contactus-container, .contactus-container *{
         background-color: #01122b;
         color: #d7d7d7;
@@ -39,3 +86,25 @@
     .title, .label{
         color: #fff;
     }
+
+    /*Media Queries*/
+    @media only screen and (max-width: 1023px) {
+        div.toggle-mode{
+      height:00px;
+        }
+  label.switch{
+      margin-top: -80px;
+      margin-left:85px;
+      position:fixed;
+      background-color: #070708;
+  }
+  span.mode-text{
+      visibility: hidden;
+  }
+  nav.navbar.navigation-bar.is-fixed-top{
+      opacity:0.9
+  }
+
+
+    }
+

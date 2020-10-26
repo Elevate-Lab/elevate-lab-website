@@ -7,9 +7,12 @@
       <meta content="website" name="keywords">
       <meta content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
       <!-- style start -->
-      <!-- bulma -->
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
-      <link href="../css/style.css" rel="stylesheet" type="text/css">
+        <!-- bulma -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+
+        <link href="../css/style.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="../css/dark.css" media="(prefers-color-scheme: dark)">
+        <link rel="stylesheet" href="../css/light.css" media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)">
       <!-- style end -->
       <!-- google fonts start -->
       <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Racing+Sans+One&display=swap" rel="stylesheet">
@@ -23,10 +26,10 @@
       <link rel="icon" href="../images/github_logo.ico" />
       <!-- icon end -->
    </head>
-   <body>
+   <body class="has-navbar-fixed-top">
     <!-- Navigation Bar -->
     <div class="nav-container">
-         <nav class="navbar navigation-bar" role="navigation" aria-label="main navigation">
+         <nav class="navbar navigation-bar is-fixed-top" role="navigation" aria-label="main navigation">
             <div class="navbar-brand">
                <a class="navbar-item" href="../../index.html">
                   <img src="../images/Logo/Logo_Vector_Only.svg" class="logo-img" alt="Elevate Lab Logo">
@@ -49,13 +52,13 @@
                   <a class="item-nav navbar-item" href="./project.html">
                   Projects
                   </a>
-                  <a class="item-nav navbar-item" href="./event.html">
+                  <a class="item-nav navbar-item active" href="./event.html">
                   Events
                   </a>
-                  <a class="item-nav navbar-item" href="#">
+                  <a class="item-nav navbar-item" href="./contribute.html">
                   Contribute
                   </a>
-                  <a class="item-nav navbar-item" href="#">
+                  <a class="item-nav navbar-item" href="./learn.html">
                   Learn
                   </a>
                   <a class="item-nav navbar-item" href="../../index.html#contactBlock">
@@ -66,6 +69,14 @@
          </nav>
     </div>
     <!-- Navigation Bar End -->
+
+    <!-- Toggle Button -->
+    <div class="toggle-mode">
+        <input type="checkbox" id="toggle" class="checkbox" />
+        <label for="toggle" class="switch"></label>
+        <span class="mode-text">Dark Mode</span>
+        </div>
+        <!-- Toggle Button End -->
 
     <!-- Project Section -->
     <h1 class="heading text-center">Events</h1>
@@ -285,9 +296,9 @@
                 </div>
             </div>
         </div>
-        
     </div>
       <!-- Project Section End-->
+
 
       <!--Footer Start-->
     <footer class="footer new">
@@ -315,9 +326,9 @@
       <!--Footer End-->
 
       <!-- JS start -->
-      <!-- <script src="https://bulma.io/vendor/clipboard-1.7.1.min.js"></script>
-         <script src="https://bulma.io/vendor/js.cookie-2.1.4.min.js"></script>
-         <script src="https://bulma.io/lib/main.js?v=202010072007"></script> -->
+      <script src="https://bulma.io/vendor/clipboard-1.7.1.min.js"></script>
+      <script src="https://bulma.io/vendor/js.cookie-2.1.4.min.js"></script>
+      <script src="https://bulma.io/lib/main.js?v=202010072007"></script>
       <script src="../js/index.js"></script>
       <script src="../js/team.js"></script>
       <!-- JS end -->
