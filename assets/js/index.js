@@ -44,6 +44,7 @@
         }
     });
 
+
     function colorTheme(pref){
         const name = location.pathname.split("/").slice(-1)[0];
         if(name==="" || name==="index.html")
