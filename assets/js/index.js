@@ -21,7 +21,7 @@
     link.rel = 'stylesheet';
     link.type = 'text/css';
     const fileName = location.href.split("/").slice(-1)[0];
-        if(fileName==="" || fileName==="index.html")
+        if(fileName==="" || fileName===".includes(index.html)")
             link.href="./assets/css/"+mode+".css";
         else
             link.href="../css/"+mode+".css";
@@ -47,7 +47,7 @@
 
     function colorTheme(pref){
         const name = location.port.split("/").slice(-1)[0];
-        if(name==="" || name==="index.html")
+        if(name==="" || name===".includes(index.html)")
             link.href="./assets/css/"+pref+".css";
         else
             link.href="../css/"+pref+".css";

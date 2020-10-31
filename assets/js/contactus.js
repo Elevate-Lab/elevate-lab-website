@@ -1,4 +1,4 @@
-
+$(document).ready(function(){
 
 document.getElementById('form').addEventListener('submit', function(event) {
     event.preventDefault()
@@ -42,7 +42,7 @@ const removeErr = () => {
     const nameErr = document.getElementById('name-err')
     const emailErr = document.getElementById('email-err')
     const messageErr = document.getElementById('message-err')
-    
+
     nameErr.textContent = ""
     emailErr.textContent = ""
     messageErr.textContent = ""
@@ -60,7 +60,7 @@ const isEmail= (val) => {
     const atIndex = val.indexOf('@')
     const dotIndex = val.lastIndexOf('.')
     if (atIndex < 1) return false
-    else if(dotIndex < atIndex + 2 || dotIndex === val.length - 1) return false 
+    else if(dotIndex < atIndex + 2 || dotIndex === val.length - 1) return false
     return true
 }
 
@@ -69,7 +69,7 @@ const setErrorMsg = (id, error) => {
     const inputElement = document.getElementById(id)
     inputElement.classList.add("is-danger")
     element.textContent = error
-} 
+}
 
 const validate = (email, name, message) => {
     const emailVal = email.value.trim()
@@ -104,3 +104,4 @@ const validate = (email, name, message) => {
     if (flag == 0 ) return false
     return true
 }
+});
