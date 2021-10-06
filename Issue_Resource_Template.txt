@@ -205,4 +205,23 @@ Contributors can share websites, youtube videos, courses which helped them build
         <!-- ________ Contributor's suggest END ________  -->
         
         
-        
+         <!-- ________ Contributor's suggest START ________  -->
+      
+         Your Name: Lee Warnock
+
+         Your Interests and Hobbies: Coding and Learning Cloud Technologies
+              
+         Useful Resources:
+                   
+                     * Resource1: Learn Python the Hard way via Video: https://www.youtube.com/watch?v=F9kC70vhRnw
+
+
+                     * Resource2: Automate the Boring Stuff with Python - Free book download: https://automatetheboringstuff.com/
+
+
+                     * Resource3: The Coder's Apprentice - a cute way to help with concepts: http://spronck.net/pythonbook/
+
+                       
+         
+
+        <!-- ________ Contributor's suggest END ________  -->
