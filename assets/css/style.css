@@ -76,7 +76,10 @@ body {
     color: #D7D7D7;
     margin: 10px auto;
 }
-
+.navbar-burger span{
+  height: 3px !important;
+  width: 25px !important;
+}
 .navbar-burger {
   height: inherit;
 }
@@ -398,12 +401,20 @@ footer .column {
 .view-project-button {
   background-color: #3e1a9c !important;
   border-width: 0px;
+  color: white;
 }
 
 .view-project-button strong {
-  background-color: #3e1a9c !important;
-  color: white;
+  background-color: transparent !important;
+
 }
+.view-project-button:hover {
+  background-color: #fbfbfc !important;
+  color: #3e1a9c !important;
+  border: 1px solid #3e1a9c;
+  transition: 0.5s;
+}
+
 
 .project-name-container {
   margin-top: 24px;
@@ -461,6 +472,7 @@ footer .column {
 }
 .contactus-container .field input, .field textarea{
     background-color: #EFEFEF;
+    color: rgb(86, 79, 225);
 }
 
 #email-err, #message-err, #name-err, .error-msg, .success-msg{
